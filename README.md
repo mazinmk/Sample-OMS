@@ -13,6 +13,22 @@ To design a sample **retail order management system** which has the capability t
 
 **NOTE** For setup please refer to README.md file under setup folder
 
+# Populate MongoDB with metadata
+## location_details Metadata
+Location Details metadata is used to enrich dataflow where the valid orders data will be enriched with name of location based on location_id present in to_location and from_location
+
+### Example
+
+**location.json** can be found in **conf** folder file, which has the following metadata with respect to location.
+```
+{"location_id":1,
+ "location":{"coordinates":[-73.856077,40.848447]},
+ "logistic_id":"1",
+ "name":"Morris Park Bake Shop"}
+```
+```
+mongoimport --db=locations --collection=location_details --file=location.json
+
 
 
 
