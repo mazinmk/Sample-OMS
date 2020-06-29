@@ -19,7 +19,7 @@ Location Details metadata is used to enrich dataflow where the valid orders data
 
 #### Example
 
-**location.json** can be found in **conf** folder file, which has the following metadata with respect to location.
+**location.json** can be found in **conf** folder file, which has the following structure with respect to location.
 ```
 {"location_id":1,
  "location":{"coordinates":[-73.856077,40.848447]},
@@ -28,7 +28,12 @@ Location Details metadata is used to enrich dataflow where the valid orders data
 ```
 ```
 mongoimport --db=locations --collection=location_details --file=location.json
+```
+### fraud_id Metadata
+This metadata is used in validate_orders data flow where each ipaddress in raw orders is checked against the fraud_ip collection if it is found or not. If found order is not processed further.
 
+####
 
+**fraud_id.json** can be found in **conf** folder, what has the following structure
 
 
