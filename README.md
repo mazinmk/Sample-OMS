@@ -1,7 +1,7 @@
 # Sample Retail Order Management System
 To design a sample **retail order management system** which has the capability to process a couple of millions orders per day.
 
-# Technical stack 
+## Technical stack 
 * OS : Ubuntu-18.04
 * Messaging: kafka_2.13-2.5.0
 * Time series Database: Druid
@@ -13,11 +13,11 @@ To design a sample **retail order management system** which has the capability t
 
 **NOTE** For setup please refer to README.md file under setup folder
 
-# Populate MongoDB with metadata
-## location_details Metadata
+## Populate MongoDB with metadata
+### location_details Metadata
 Location Details metadata is used to enrich dataflow where the valid orders data will be enriched with name of location based on location_id present in to_location and from_location
 
-### Example
+#### Example
 
 **location.json** can be found in **conf** folder file, which has the following metadata with respect to location.
 ```
