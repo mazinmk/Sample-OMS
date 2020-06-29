@@ -34,6 +34,13 @@ This metadata is used in validate_orders data flow where each ipaddress in raw o
 
 ####
 
-**fraud_id.json** can be found in **conf** folder, what has the following structure
+* **fraud_id.json** can be found in **conf** folder, which has the following structure.
+* **generate_random_ip.py** which will help us in generating the fraud_ip.json is found in **helper-kit** folder
+```
+$ mongoimport --db=locations --collection=fraud_ip --file=fraud_ip_address.json
+```
+
+### fraud_id Metadata
+This metadata is used in validate_orders data flow where each ipaddress in raw orders is checked against the fraud_ip collection if it is found or not. If found order is not processed further.
 
 
