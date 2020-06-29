@@ -44,7 +44,7 @@ $ mongoimport --db=locations --collection=location_details --file=location.json
 This metadata is used in **router** data flow where based on the route_id the order is routed to internal or external order processing.
 * **generate_random_products.py** which will help us in generting random product names is found in **helper-kit** folder
 * **product_details.json** can be found in **conf** folder,which has the following structure.
-**Sample**
+
 ```
 {'product_id': 1000, 'product_name': 'skimpy-indigo-frigatebird', 'route_id': 1, 'category': 'Grocery'}
 ```
