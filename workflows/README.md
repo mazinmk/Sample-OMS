@@ -42,7 +42,7 @@ This program has following functions:
 1. **Consume message from raw_order topic**
     * Kafka consumer is configured to consume from "latest" offset as this program will be running in
    stream mode.
-    * Topics are created with single partition, but consumer group is configured to enable
+    * Topics are created with single partition, but consumer group "enhanced_group" is configured to enable 
    parallel process where more consumers can be added if needed to scale.
     * Auto Commit is set to true which means offset commit will happen every 5 sec.
 
@@ -67,17 +67,44 @@ $  python3 check_order_status.py
    parallel process where more consumers can be added if needed to scale.
     * Auto Commit is set to true which means offset commit will happen every 5 sec.
 
-2. **Enrich the order**
-Enriches the data with respective location names for to_location and from_location filed by looking up location details metadata stored in the MongoDB. Enriched data is then published onto **enriched_order_details** topic.
+2. **Get the name of location based on location id**
+get_name_for_location(), for a given location id look up the metastore to get the location name and return the location name.
 
-3. **Publish the message tranformed data onto kafka**
+3. **Enrich the order**
+Enriches the data with respective location names for to_location and from_location field by looking up location details metadata stored using get_name_for_location()Enriched data is then published onto **enriched_order_details** topic.
+
+4. **Publish the message tranformed data onto kafka**
 The enhanced order is published onto kafka producer using **json serialiser** in async mode, thus the module kafka_connect() does not have a feedback loop configured in kafka producer.
 
-4. **Update the order status**
+5. **Update the order status**
 Once the message is published we need to update the order status as **enriched**. The objective of maintaing the status is to enable status report tracking for each orders.
 ```
 $  python3 check_order_status.py
 {'_id': ObjectId('5efac09e983fe22729abaabd'), 'order_id': 11100, 'status': 'enriched'}
 {'_id': ObjectId('5efac09e983fe22729abaabe'), 'order_id': 11101, 'status': 'enriched'}
 ```
+# Route Data workflow
+1. **Consume message from enriched_order_details topic**
+    * Kafka consumer is configured to consume from "latest" offset as this program will be running in stream mode.
+    * Topics are created with single partition, but consumer group "route_group" is configured to enable 
+    parallel process where more consumers can be added if needed to scale.
+    * Auto Commit is set to true which means offset commit will happen every 5 sec.
+
+2. **Get the route_id on product id**
+get_route(), for a given product id look up the product_details collection and get the route_id and return the id. 
+
+3. **Route the order**
+There are only **two routes** configured today, which is, internal or external. Based on the route_id the orders are pusblished onto two different topics **internal_routed_order** or **external_routed_order**. Those topics which are set interally will follow internal order processing workflow and those order which are routed to external will be converted into json file and can be routed to external partners using API endpoints of clients.
+
+3. **Publish the message tranformed data onto kafka**
+The enhanced order is published onto kafka producer using **json serialiser** in async mode, thus the module kafka_connect() does not have a feedback loop configured in kafka producer.
+
+4. **Update the order status**
+Once the message is published we need to update the order status as **routed**. The objective of maintaing the status is to enable status report tracking for each orders.
+```
+$  python3 check_order_status.py
+{'_id': ObjectId('5efac09e983fe22729abaabd'), 'order_id': 11100, 'status': 'routed'}
+{'_id': ObjectId('5efac09e983fe22729abaabe'), 'order_id': 11101, 'status': 'routed'}
+```
+
 
