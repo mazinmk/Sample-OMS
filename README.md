@@ -62,7 +62,7 @@ $ python3 enrich_order_location.py &
 $ python3 route_order.py &
 ```
 ### Start the aggregators
-In two separate console start the two spark jobs as it is been set to print on screen to see the computation value
+In **two separate consoles** start the two spark jobs as it is been set to print on screen to see the computation value
 ```
 $ python3 aggregate_price.py
 $ python3 process_order.py
