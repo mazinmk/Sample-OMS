@@ -15,9 +15,6 @@ EXTERNAL_FOLDER = "external_orders"
 
 def process_external_orders():
     """
-    1.Validate order for fraud_ip
-    2.For the valid records the status of the order is updated from "generated" to "validated"
-    3.Run in a while loop to make it run as streaming process.
 
     :input: None
     :output: None
@@ -31,17 +28,22 @@ def process_external_orders():
                                                           'earliest')
     #Create Mongo Connection Object
     order_id_status_collection = my_mongo_db.db.order_status
+
     list_orders = []
     try:
         while True:
             for message in kafka_consumer:
+                status_dict = {}
                 order_record_dict = message.value
+                status_dict["order_id"] = order_record_dict["order_id"]
                 list_orders.append(order_record_dict)
                 json_file_name = (EXTERNAL_FOLDER+"/"+str(order_record_dict["order_id"])+".json")
                 try:
                     with open (json_file_name,'w') as external_order_json:
                         dump(list_orders, external_order_json)
-                        logger.info (f"{json_file_name} JSON created for external orders")
+                    logger.info (f"{json_file_name} JSON created for external orders")
+                    order_id_status_collection.update_one(status_dict,{"$set":{"status":"external_routed"}})
+                    logger.info("Order status changed to external_routed.")
                 except IOError as ioerr:
                     logger.warning(f"Reading failed I/O {json_file_name} : {ioerr}")
 
