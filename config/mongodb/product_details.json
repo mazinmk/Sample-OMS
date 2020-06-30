@@ -1,0 +1,500 @@
+{'product_id': 1000, 'product_name': 'skimpy-indigo-frigatebird', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1001, 'product_name': 'pretty-malachite-barb', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1002, 'product_name': 'shaggy-rose-moose', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1003, 'product_name': 'cloudy-cobalt-shrimp', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1004, 'product_name': 'foggy-orange-mouse', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1005, 'product_name': 'nippy-brass-badger', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1006, 'product_name': 'muzzy-cornflower-setter', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1007, 'product_name': 'hilly-olivine-balinese', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1008, 'product_name': 'chummy-zucchini-albatross', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1009, 'product_name': 'slimy-cerise-rattlesnake', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1010, 'product_name': 'shaggy-buff-cat', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1011, 'product_name': 'chewy-chocolate-flamingo', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1012, 'product_name': 'breezy-cinnabar-goose', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1013, 'product_name': 'jumpy-pear-dog', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1014, 'product_name': 'frumpy-magenta-emu', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1015, 'product_name': 'slaphappy-burgundy-wombat', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1016, 'product_name': 'muggy-purple-dachsbracke', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1017, 'product_name': 'wheezy-persimmon-vulture', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1018, 'product_name': 'grumpy-pear-bulldog', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1019, 'product_name': 'homey-taupe-wolfhound', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1020, 'product_name': 'leaky-beige-lemming', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1021, 'product_name': 'bluesy-firebrick-wrasse', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1022, 'product_name': 'flaky-carmine-chinchilla', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1023, 'product_name': 'slaphappy-silver-rottweiler', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1024, 'product_name': 'chummy-indigo-monster', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1025, 'product_name': 'squirrely-puce-quetzal', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1026, 'product_name': 'skanky-teal-rottweiler', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1027, 'product_name': 'queasy-bronze-beaver', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1028, 'product_name': 'sunny-thistle-salamander', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1029, 'product_name': 'crabby-indigo-wallaby', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1030, 'product_name': 'shaggy-amethyst-zebu', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1031, 'product_name': 'slimy-cyan-wrasse', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1032, 'product_name': 'squeaky-scarlet-mist', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1033, 'product_name': 'pretty-pink-duck', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1034, 'product_name': 'bluesy-blue-sheep', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1035, 'product_name': 'hasty-tangerine-echidna', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1036, 'product_name': 'randy-goldenrod-jackal', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1037, 'product_name': 'wheezy-eggplant-nightingale', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1038, 'product_name': 'tacky-carmine-meerkat', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1039, 'product_name': 'slaphappy-flax-mandrill', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1040, 'product_name': 'shaky-harlequin-fish', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1041, 'product_name': 'stealthy-apricot-leopard', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1042, 'product_name': 'frumpy-emerald-balinese', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1043, 'product_name': 'seedy-heliotrope-gharial', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1044, 'product_name': 'flimsy-vermilion-corgi', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1045, 'product_name': 'ugly-amethyst-goose', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1046, 'product_name': 'lanky-pear-tortoise', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1047, 'product_name': 'freaky-puce-bandicoot', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1048, 'product_name': 'chewy-charcoal-wildebeest', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1049, 'product_name': 'gummy-denim-dog', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1050, 'product_name': 'stealthy-ultramarine-panda', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1051, 'product_name': 'woolly-ruby-goat', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1052, 'product_name': 'shaky-myrtle-rottweiler', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1053, 'product_name': 'gimpy-rose-otter', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1054, 'product_name': 'silly-white-nightingale', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1055, 'product_name': 'thirsty-bistre-penguin', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1056, 'product_name': 'nerdy-cream-bracke', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1057, 'product_name': 'ready-green-stingray', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1058, 'product_name': 'randy-violet-jaguar', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1059, 'product_name': 'freaky-green-swan', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1060, 'product_name': 'skimpy-turquoise-cattle', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1061, 'product_name': 'geeky-taupe-frise', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1062, 'product_name': 'ugly-razzmatazz-camel', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1063, 'product_name': 'homey-puce-iguana', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1064, 'product_name': 'trippy-mustard-slug', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1065, 'product_name': 'chummy-charcoal-corgi', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1066, 'product_name': 'squeaky-emerald-falcon', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1067, 'product_name': 'ready-viridian-dachshund', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1068, 'product_name': 'slimy-wisteria-chimpanzee', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1069, 'product_name': 'muggy-carmine-tang', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1070, 'product_name': 'pasty-amber-forest', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1071, 'product_name': 'wheezy-plum-paradise', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1072, 'product_name': 'fuzzy-cerulean-lion', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1073, 'product_name': 'zippy-firebrick-kudu', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1074, 'product_name': 'woolly-apricot-angora', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1075, 'product_name': 'whiny-white-lionfish', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1076, 'product_name': 'blurry-chartreuse-robin', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1077, 'product_name': 'craggy-vermilion-oriole', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1078, 'product_name': 'flaky-jade-guppy', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1079, 'product_name': 'jumpy-razzmatazz-beetle', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1080, 'product_name': 'flimsy-green-quetzal', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1081, 'product_name': 'pokey-chartreuse-mayfly', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1082, 'product_name': 'ugly-pumpkin-antelope', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1083, 'product_name': 'muggy-sepia-terrier', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1084, 'product_name': 'silly-amethyst-slug', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1085, 'product_name': 'breezy-gamboge-saola', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1086, 'product_name': 'bumpy-eggplant-hippopotamus', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1087, 'product_name': 'homey-grey-bear', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1088, 'product_name': 'snoopy-rose-tapir', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1089, 'product_name': 'squeaky-sepia-goat', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1090, 'product_name': 'snazzy-cobalt-bulldog', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1091, 'product_name': 'boozy-aqua-angelfish', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1092, 'product_name': 'baggy-bistre-ostrich', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1093, 'product_name': 'surly-cardinal-dolphin', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1094, 'product_name': 'chummy-orchid-hippopotamus', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1095, 'product_name': 'breezy-olive-eagle', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1096, 'product_name': 'nerdy-buff-indri', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1097, 'product_name': 'flabby-ivory-akbash', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1098, 'product_name': 'zippy-pumpkin-barracuda', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1099, 'product_name': 'shaky-pink-badger', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1100, 'product_name': 'chewy-azure-bandicoot', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1101, 'product_name': 'woozy-myrtle-ibis', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1102, 'product_name': 'randy-gold-malamute', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1103, 'product_name': 'hasty-thistle-wasp', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1104, 'product_name': 'gamy-gold-moorhen', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1105, 'product_name': 'cheeky-rust-wolfhound', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1106, 'product_name': 'gimpy-copper-dalmatian', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1107, 'product_name': 'hilly-coral-macaque', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1108, 'product_name': 'skanky-dandelion-tetra', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1109, 'product_name': 'shaggy-auburn-monster', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1110, 'product_name': 'lousy-ruby-civet', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1111, 'product_name': 'squeaky-tomato-sparrow', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1112, 'product_name': 'zippy-charcoal-retriever', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1113, 'product_name': 'snoopy-buff-bombay', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1114, 'product_name': 'hilly-aquamarine-budgerigar', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1115, 'product_name': 'sleazy-goldenrod-dachsbracke', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1116, 'product_name': 'cheeky-magnolia-blue', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1117, 'product_name': 'jumpy-gold-retriever', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1118, 'product_name': 'bluesy-viridian-oriole', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1119, 'product_name': 'scummy-sangria-dogfish', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1120, 'product_name': 'scanty-heliotrope-wolverine', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1121, 'product_name': 'sickly-tan-shrimp', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1122, 'product_name': 'homey-linen-chimpanzee', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1123, 'product_name': 'snappy-sapphire-quokka', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1124, 'product_name': 'woozy-ultramarine-bloodhound', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1125, 'product_name': 'muggy-amber-opossum', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1126, 'product_name': 'slaphappy-charcoal-vole', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1127, 'product_name': 'stinky-heliotrope-gar', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1128, 'product_name': 'whiny-seashell-elephant', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1129, 'product_name': 'slimy-bronze-camel', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1130, 'product_name': 'breezy-ruby-panda', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1131, 'product_name': 'crabby-cerulean-pig', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1132, 'product_name': 'trippy-russet-bulldog', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1133, 'product_name': 'squeaky-peach-tarsier', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1134, 'product_name': 'dorky-mauve-neanderthal', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1135, 'product_name': 'muzzy-linen-heron', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1136, 'product_name': 'muzzy-xanthic-iguana', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1137, 'product_name': 'leaky-mustard-lionfish', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1138, 'product_name': 'baggy-brass-sheepdog', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1139, 'product_name': 'sleazy-orchid-cassowary', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1140, 'product_name': 'clammy-azure-dogfish', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1141, 'product_name': 'wimpy-rose-hound', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1142, 'product_name': 'randy-xanthic-mule', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1143, 'product_name': 'paltry-puce-mammoth', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1144, 'product_name': 'crabby-saffron-rhinoceros', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1145, 'product_name': 'pokey-blue-dalmatian', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1146, 'product_name': 'beady-myrtle-boar', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1147, 'product_name': 'pretty-cinnamon-woodpecker', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1148, 'product_name': 'flimsy-gamboge-seal', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1149, 'product_name': 'sloppy-jade-foxhound', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1150, 'product_name': 'woozy-salmon-hamster', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1151, 'product_name': 'pokey-cerise-seahorse', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1152, 'product_name': 'squeaky-grey-hyrax', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1153, 'product_name': 'lumpy-chocolate-audemer', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1154, 'product_name': 'cheeky-bronze-ladybird', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1155, 'product_name': 'lousy-denim-dolphin', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1156, 'product_name': 'clammy-khaki-warthog', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1157, 'product_name': 'scummy-mustard-buffalo', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1158, 'product_name': 'craggy-vermilion-barb', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1159, 'product_name': 'scanty-celadon-abyssinian', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1160, 'product_name': 'slaphappy-aqua-leopard', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1161, 'product_name': 'leaky-heliotrope-affenpinscher', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1162, 'product_name': 'zippy-indigo-rat', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1163, 'product_name': 'fuzzy-firebrick-toad', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1164, 'product_name': 'cranky-fuchsia-duck', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1165, 'product_name': 'snippy-brass-dalmatian', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1166, 'product_name': 'surly-coral-chamois', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1167, 'product_name': 'wheezy-myrtle-moth', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1168, 'product_name': 'scaly-ecru-boar', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1169, 'product_name': 'bumpy-cobalt-fly', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1170, 'product_name': 'lovely-zucchini-impala', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1171, 'product_name': 'thirsty-peach-mongoose', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1172, 'product_name': 'lumpy-plum-otter', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1173, 'product_name': 'dorky-cerise-pig', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1174, 'product_name': 'sleazy-ivory-saola', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1175, 'product_name': 'smelly-russet-forest', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1176, 'product_name': 'shaggy-persimmon-woodlouse', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1177, 'product_name': 'shaggy-orange-scorpion', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1178, 'product_name': 'cranky-flax-ladybird', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1179, 'product_name': 'baggy-amaranth-antelope', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1180, 'product_name': 'silly-mauve-yak', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1181, 'product_name': 'stuffy-auburn-bear', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1182, 'product_name': 'shaggy-buff-frigatebird', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1183, 'product_name': 'ugly-violet-beaver', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1184, 'product_name': 'goopy-viridian-snail', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1185, 'product_name': 'nerdy-chocolate-hornet', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1186, 'product_name': 'bluesy-flax-bullfrog', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1187, 'product_name': 'scummy-grey-dalmatian', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1188, 'product_name': 'sickly-cardinal-kakapo', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1189, 'product_name': 'messy-celadon-macaque', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1190, 'product_name': 'stinky-taupe-buffalo', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1191, 'product_name': 'smelly-cornflower-dragon', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1192, 'product_name': 'ready-silver-booby', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1193, 'product_name': 'chewy-jade-stingray', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1194, 'product_name': 'seedy-ecru-slug', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1195, 'product_name': 'cozy-seashell-stoat', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1196, 'product_name': 'shaky-flax-barracuda', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1197, 'product_name': 'chewy-dandelion-fowl', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1198, 'product_name': 'dorky-tomato-dachshund', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1199, 'product_name': 'hilly-alizarin-giraffe', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1200, 'product_name': 'geeky-coral-goose', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1201, 'product_name': 'dorky-asparagus-audemer', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1202, 'product_name': 'skimpy-pear-swan', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1203, 'product_name': 'cozy-corn-hedgehog', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1204, 'product_name': 'snazzy-periwinkle-boar', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1205, 'product_name': 'goopy-tangerine-cichlid', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1206, 'product_name': 'sleepy-plum-loon', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1207, 'product_name': 'stuffy-puce-lemur', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1208, 'product_name': 'homey-cerulean-lion', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1209, 'product_name': 'tacky-orchid-donkey', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1210, 'product_name': 'messy-ecru-wolf', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1211, 'product_name': 'pokey-taupe-terrier', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1212, 'product_name': 'slaphappy-cinnabar-urchin', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1213, 'product_name': 'beady-lemon-devil', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1214, 'product_name': 'dorky-chocolate-squirt', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1215, 'product_name': 'droopy-persimmon-seahorse', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1216, 'product_name': 'dorky-bistre-catfish', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1217, 'product_name': 'scummy-champagne-nightingale', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1218, 'product_name': 'lanky-bronze-orangutan', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1219, 'product_name': 'craggy-emerald-dog', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1220, 'product_name': 'lovely-emerald-rottweiler', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1221, 'product_name': 'hilly-heliotrope-kangaroo', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1222, 'product_name': 'skanky-brass-snake', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1223, 'product_name': 'snazzy-olivine-quoll', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1224, 'product_name': 'stealthy-amethyst-gar', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1225, 'product_name': 'tasty-sepia-centipede', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1226, 'product_name': 'hilly-magnolia-weasel', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1227, 'product_name': 'nippy-jade-baboon', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1228, 'product_name': 'woozy-crimson-angelfish', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1229, 'product_name': 'woozy-dandelion-fousek', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1230, 'product_name': 'shabby-amber-caracal', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1231, 'product_name': 'scummy-mustard-hyena', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1232, 'product_name': 'ugly-bronze-squid', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1233, 'product_name': 'boozy-amethyst-flamingo', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1234, 'product_name': 'pokey-cerulean-chimpanzee', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1235, 'product_name': 'breezy-cream-alligator', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1236, 'product_name': 'homely-indigo-monster', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1237, 'product_name': 'shaky-wheat-albatross', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1238, 'product_name': 'woozy-seashell-shrimp', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1239, 'product_name': 'scummy-ochre-lion', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1240, 'product_name': 'squeaky-salmon-grouse', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1241, 'product_name': 'snazzy-harlequin-indri', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1242, 'product_name': 'scaly-persimmon-snail', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1243, 'product_name': 'hasty-wisteria-butterfly', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1244, 'product_name': 'lovely-burgundy-zebra', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1245, 'product_name': 'shabby-olive-gecko', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1246, 'product_name': 'lovely-olivine-audemer', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1247, 'product_name': 'trippy-orchid-rat', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1248, 'product_name': 'dorky-celadon-blue', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1249, 'product_name': 'clammy-alizarin-jackal', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1250, 'product_name': 'paltry-goldenrod-jackal', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1251, 'product_name': 'ready-beige-husky', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1252, 'product_name': 'flaky-indigo-forest', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1253, 'product_name': 'slimy-chartreuse-coral', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1254, 'product_name': 'cheeky-amber-ocelot', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1255, 'product_name': 'wheezy-firebrick-blue', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1256, 'product_name': 'woolly-malachite-gorilla', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1257, 'product_name': 'flimsy-denim-booby', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1258, 'product_name': 'ugly-gamboge-sloth', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1259, 'product_name': 'breezy-magenta-salamander', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1260, 'product_name': 'lanky-ultramarine-vulture', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1261, 'product_name': 'sleazy-white-sloth', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1262, 'product_name': 'tasty-cream-tetra', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1263, 'product_name': 'silly-sangria-corgi', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1264, 'product_name': 'flabby-viridian-duck', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1265, 'product_name': 'cheeky-asparagus-panda', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1266, 'product_name': 'seedy-smalt-ant', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1267, 'product_name': 'randy-aquamarine-penguin', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1268, 'product_name': 'messy-cerise-maltese', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1269, 'product_name': 'woolly-lilac-squid', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1270, 'product_name': 'nerdy-chartreuse-chihuahua', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1271, 'product_name': 'chewy-heliotrope-ladybird', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1272, 'product_name': 'lousy-alizarin-paradise', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1273, 'product_name': 'snippy-xanthic-ray', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1274, 'product_name': 'snoopy-myrtle-loon', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1275, 'product_name': 'pretty-silver-chipmunk', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1276, 'product_name': 'randy-teal-tzu', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1277, 'product_name': 'homey-scarlet-catfish', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1278, 'product_name': 'cheeky-pink-caterpillar', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1279, 'product_name': 'crabby-bistre-hornet', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1280, 'product_name': 'gloppy-burgundy-chicken', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1281, 'product_name': 'shabby-beige-horse', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1282, 'product_name': 'boozy-celadon-clam', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1283, 'product_name': 'randy-alizarin-falcon', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1284, 'product_name': 'skinny-taupe-wasp', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1285, 'product_name': 'leaky-teal-dormouse', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1286, 'product_name': 'sloppy-dandelion-fly', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1287, 'product_name': 'gummy-myrtle-echidna', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1288, 'product_name': 'wimpy-malachite-grasshopper', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1289, 'product_name': 'boozy-peach-olm', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1290, 'product_name': 'leaky-xanthic-binturong', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1291, 'product_name': 'leaky-denim-caiman', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1292, 'product_name': 'ugly-emerald-terrier', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1293, 'product_name': 'randy-aqua-fousek', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1294, 'product_name': 'squirrely-puce-bobcat', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1295, 'product_name': 'pokey-pink-cheetah', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1296, 'product_name': 'goopy-brown-caterpillar', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1297, 'product_name': 'goopy-charcoal-dodo', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1298, 'product_name': 'snippy-auburn-barracuda', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1299, 'product_name': 'skinny-ecru-alligator', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1300, 'product_name': 'fuzzy-buff-mouse', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1301, 'product_name': 'pasty-brass-jellyfish', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1302, 'product_name': 'cranky-tan-clam', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1303, 'product_name': 'sleepy-viridian-earwig', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1304, 'product_name': 'queasy-mustard-octopus', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1305, 'product_name': 'shabby-scarlet-vole', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1306, 'product_name': 'tacky-peach-ant', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1307, 'product_name': 'baggy-russet-stingray', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1308, 'product_name': 'hazy-tomato-chicken', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1309, 'product_name': 'nippy-ivory-bloodhound', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1310, 'product_name': 'stinky-cyan-heron', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1311, 'product_name': 'flaky-green-manatee', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1312, 'product_name': 'shaggy-champagne-penguin', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1313, 'product_name': 'stinky-razzmatazz-vulture', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1314, 'product_name': 'hazy-firebrick-wolf', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1315, 'product_name': 'cranky-yellow-ferret', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1316, 'product_name': 'snazzy-purple-squirt', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1317, 'product_name': 'chewy-cinnabar-civet', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1318, 'product_name': 'dorky-amber-mole', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1319, 'product_name': 'clammy-azure-turkey', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1320, 'product_name': 'skanky-lavender-leopard', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1321, 'product_name': 'foggy-coral-crocodile', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1322, 'product_name': 'skimpy-buff-sloth', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1323, 'product_name': 'woolly-silver-dugong', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1324, 'product_name': 'cozy-pink-cheetah', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1325, 'product_name': 'nerdy-indigo-wasp', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1326, 'product_name': 'cheeky-brown-jellyfish', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1327, 'product_name': 'lumpy-teal-starfish', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1328, 'product_name': 'jumpy-purple-dalmatian', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1329, 'product_name': 'boozy-vermilion-coyote', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1330, 'product_name': 'seedy-lime-tortoise', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1331, 'product_name': 'beady-aquamarine-chimpanzee', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1332, 'product_name': 'sleepy-coral-buffalo', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1333, 'product_name': 'cozy-amethyst-macaque', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1334, 'product_name': 'squirrely-dandelion-bordeaux', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1335, 'product_name': 'slimy-cream-mouse', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1336, 'product_name': 'pokey-yellow-ray', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1337, 'product_name': 'breezy-cornflower-scorpion', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1338, 'product_name': 'nippy-green-walrus', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1339, 'product_name': 'snippy-chocolate-camel', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1340, 'product_name': 'blurry-malachite-malamute', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1341, 'product_name': 'shaggy-flax-wolverine', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1342, 'product_name': 'chummy-taupe-magpie', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1343, 'product_name': 'snappy-mauve-macaque', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1344, 'product_name': 'nippy-bronze-worm', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1345, 'product_name': 'freaky-denim-swan', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1346, 'product_name': 'stuffy-plum-lion', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1347, 'product_name': 'nippy-heliotrope-cow', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1348, 'product_name': 'hasty-chocolate-blue', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1349, 'product_name': 'smelly-red-frog', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1350, 'product_name': 'freaky-champagne-butterfly', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1351, 'product_name': 'chewy-denim-burmese', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1352, 'product_name': 'hilly-wheat-gharial', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1353, 'product_name': 'lanky-ultramarine-blue', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1354, 'product_name': 'craggy-amaranth-swan', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1355, 'product_name': 'trippy-denim-lion', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1356, 'product_name': 'smelly-cerise-malamute', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1357, 'product_name': 'snippy-heliotrope-husky', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1358, 'product_name': 'surly-myrtle-avocet', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1359, 'product_name': 'craggy-sepia-iguana', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1360, 'product_name': 'gimpy-eggplant-uakari', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1361, 'product_name': 'hazy-mauve-gorilla', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1362, 'product_name': 'cozy-auburn-tapir', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1363, 'product_name': 'flaky-plum-ocelot', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1364, 'product_name': 'chewy-rust-balinese', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1365, 'product_name': 'blurry-green-swan', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1366, 'product_name': 'gloppy-aqua-gharial', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1367, 'product_name': 'tasty-chestnut-mule', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1368, 'product_name': 'ugly-azure-dugong', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1369, 'product_name': 'nerdy-apricot-sloth', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1370, 'product_name': 'boozy-white-elephant', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1371, 'product_name': 'sickly-ecru-tiger', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1372, 'product_name': 'bluesy-smalt-woodpecker', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1373, 'product_name': 'hilly-violet-chinchilla', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1374, 'product_name': 'skanky-sangria-zonkey', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1375, 'product_name': 'clammy-turquoise-bat', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1376, 'product_name': 'tacky-coral-frigatebird', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1377, 'product_name': 'blurry-corn-kingfisher', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1378, 'product_name': 'thirsty-tan-anteater', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1379, 'product_name': 'clammy-indigo-dog', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1380, 'product_name': 'thirsty-cobalt-gopher', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1381, 'product_name': 'greasy-salmon-havanese', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1382, 'product_name': 'homely-cream-otter', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1383, 'product_name': 'gummy-goldenrod-pig', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1384, 'product_name': 'skimpy-flax-binturong', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1385, 'product_name': 'gimpy-chestnut-cuttlefish', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1386, 'product_name': 'boozy-magenta-mule', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1387, 'product_name': 'gummy-aqua-quetzal', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1388, 'product_name': 'hazy-seashell-bulldog', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1389, 'product_name': 'nippy-pink-chihuahua', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1390, 'product_name': 'jumpy-cinnabar-ibis', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1391, 'product_name': 'surly-bistre-wombat', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1392, 'product_name': 'stuffy-olive-skunk', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1393, 'product_name': 'seedy-scarlet-urchin', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1394, 'product_name': 'nerdy-dandelion-tang', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1395, 'product_name': 'geeky-smalt-moose', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1396, 'product_name': 'crabby-olivine-spaniel', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1397, 'product_name': 'snappy-mauve-opossum', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1398, 'product_name': 'scanty-thistle-tetra', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1399, 'product_name': 'chewy-grey-cattle', 'route_id': 1, 'category': 'Men'}
+{'product_id': 1400, 'product_name': 'ugly-red-ferret', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1401, 'product_name': 'fuzzy-black-fish', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1402, 'product_name': 'smelly-periwinkle-bat', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1403, 'product_name': 'lanky-cream-sloth', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1404, 'product_name': 'stinky-scarlet-flamingo', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1405, 'product_name': 'scummy-charcoal-molly', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1406, 'product_name': 'stealthy-wisteria-macaw', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1407, 'product_name': 'boozy-sangria-greyhound', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1408, 'product_name': 'chummy-crimson-olm', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1409, 'product_name': 'scummy-gold-rhinoceros', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1410, 'product_name': 'clammy-periwinkle-kudu', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1411, 'product_name': 'stealthy-wheat-lemming', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1412, 'product_name': 'whiny-flax-kudu', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1413, 'product_name': 'gamy-saffron-earwig', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1414, 'product_name': 'pretty-zucchini-hound', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1415, 'product_name': 'tasty-chestnut-yak', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1416, 'product_name': 'zippy-carmine-sponge', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1417, 'product_name': 'shabby-viridian-hamster', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1418, 'product_name': 'paltry-cinnabar-barracuda', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1419, 'product_name': 'lovely-lime-cheetah', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1420, 'product_name': 'greasy-zucchini-termite', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1421, 'product_name': 'gamy-mustard-tortoise', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1422, 'product_name': 'hilly-grey-toucan', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1423, 'product_name': 'snazzy-amber-budgerigar', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1424, 'product_name': 'grumpy-azure-moose', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1425, 'product_name': 'silly-linen-dogfish', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1426, 'product_name': 'skanky-asparagus-cat', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1427, 'product_name': 'grumpy-pumpkin-bordeaux', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1428, 'product_name': 'seedy-auburn-mongrel', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1429, 'product_name': 'pokey-dandelion-olm', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1430, 'product_name': 'paltry-magenta-squirrel', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1431, 'product_name': 'ugly-copper-lemur', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1432, 'product_name': 'hasty-maroon-liger', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1433, 'product_name': 'scaly-vermilion-falcon', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1434, 'product_name': 'leaky-amethyst-emu', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1435, 'product_name': 'lousy-magenta-mau', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1436, 'product_name': 'wheezy-wisteria-tang', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1437, 'product_name': 'surly-tangerine-newt', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1438, 'product_name': 'craggy-chartreuse-bulldog', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1439, 'product_name': 'slaphappy-ultramarine-eagle', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1440, 'product_name': 'pokey-tan-spitz', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1441, 'product_name': 'foggy-olivine-numbat', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1442, 'product_name': 'sickly-crimson-skunk', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1443, 'product_name': 'grumpy-cyan-stingray', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1444, 'product_name': 'skinny-amber-bloodhound', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1445, 'product_name': 'clammy-peach-paradise', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1446, 'product_name': 'sloppy-cyan-audemer', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1447, 'product_name': 'hasty-pear-zebu', 'route_id': 2, 'category': 'Women'}
+{'product_id': 1448, 'product_name': 'jumpy-champagne-neanderthal', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1449, 'product_name': 'droopy-pear-indri', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1450, 'product_name': 'muzzy-wisteria-ocelot', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1451, 'product_name': 'geeky-saffron-peccary', 'route_id': 1, 'category': 'Household Essentials'}
+{'product_id': 1452, 'product_name': 'messy-pink-bordeaux', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1453, 'product_name': 'gamy-cinnamon-retriever', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1454, 'product_name': 'shaky-xanthic-moth', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1455, 'product_name': 'cranky-ultramarine-llama', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1456, 'product_name': 'whiny-brown-chihuahua', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1457, 'product_name': 'tacky-blue-termite', 'route_id': 2, 'category': 'Grocery'}
+{'product_id': 1458, 'product_name': 'clammy-cornflower-cuttlefish', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1459, 'product_name': 'geeky-thistle-hippopotamus', 'route_id': 1, 'category': 'Baby'}
+{'product_id': 1460, 'product_name': 'breezy-puce-snail', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1461, 'product_name': 'nerdy-brown-dragon', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1462, 'product_name': 'chummy-brown-ferret', 'route_id': 2, 'category': 'Men'}
+{'product_id': 1463, 'product_name': 'tacky-chartreuse-indri', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1464, 'product_name': 'pasty-buff-jackal', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1465, 'product_name': 'wheezy-alizarin-mist', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1466, 'product_name': 'flimsy-azure-dog', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1467, 'product_name': 'ready-blue-swan', 'route_id': 1, 'category': 'Women'}
+{'product_id': 1468, 'product_name': 'nerdy-lemon-dingo', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1469, 'product_name': 'cheeky-smalt-bat', 'route_id': 2, 'category': 'Kids'}
+{'product_id': 1470, 'product_name': 'lovely-cardinal-warthog', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1471, 'product_name': 'messy-buff-markhor', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1472, 'product_name': 'grumpy-salmon-weasel', 'route_id': 1, 'category': 'Grocery'}
+{'product_id': 1473, 'product_name': 'cozy-wheat-oriole', 'route_id': 1, 'category': 'Kids'}
+{'product_id': 1474, 'product_name': 'gimpy-aqua-dachshund', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1475, 'product_name': 'stealthy-grey-wasp', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1476, 'product_name': 'hilly-pumpkin-tarsier', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1477, 'product_name': 'sleazy-auburn-pinscher', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1478, 'product_name': 'shaggy-gold-bear', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1479, 'product_name': 'chewy-linen-ragdoll', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1480, 'product_name': 'bluesy-ivory-whippet', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1481, 'product_name': 'jumpy-denim-catfish', 'route_id': 1, 'category': 'Toys'}
+{'product_id': 1482, 'product_name': 'ready-copper-barb', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1483, 'product_name': 'stinky-persimmon-jellyfish', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1484, 'product_name': 'homely-lime-slug', 'route_id': 1, 'category': 'Young Adults'}
+{'product_id': 1485, 'product_name': 'frumpy-purple-javanese', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1486, 'product_name': 'pasty-smalt-jaguar', 'route_id': 2, 'category': 'Household Essentials'}
+{'product_id': 1487, 'product_name': 'scummy-salmon-shark', 'route_id': 2, 'category': 'Young Adults'}
+{'product_id': 1488, 'product_name': 'ugly-peach-meerkat', 'route_id': 1, 'category': 'Home'}
+{'product_id': 1489, 'product_name': 'homey-purple-jackal', 'route_id': 2, 'category': 'Toys'}
+{'product_id': 1490, 'product_name': 'flaky-seashell-axolotl', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1491, 'product_name': 'crabby-gamboge-crane', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1492, 'product_name': 'skimpy-olivine-giraffe', 'route_id': 2, 'category': 'Home'}
+{'product_id': 1493, 'product_name': 'craggy-brass-akbash', 'route_id': 2, 'category': 'Furniture'}
+{'product_id': 1494, 'product_name': 'lovely-bistre-ostrich', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1495, 'product_name': 'nippy-denim-bison', 'route_id': 2, 'category': 'Baby'}
+{'product_id': 1496, 'product_name': 'squirrely-amber-dragon', 'route_id': 1, 'category': 'Shoes'}
+{'product_id': 1497, 'product_name': 'cloudy-tan-mole', 'route_id': 2, 'category': 'Shoes'}
+{'product_id': 1498, 'product_name': 'crabby-cinnabar-mongoose', 'route_id': 1, 'category': 'Furniture'}
+{'product_id': 1499, 'product_name': 'gamy-lilac-chinchilla', 'route_id': 1, 'category': 'Baby'}

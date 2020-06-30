@@ -1,0 +1,500 @@
+{"location_id":1,"location":{"coordinates":[-73.856077,40.848447]},"logistic_id":"1","name":"Morris Park Bake Shop"}
+{"location_id":2,"location":{"coordinates":[-73.961704,40.662942]},"logistic_id":"2","name":"Wendy'S"}
+{"location_id":3,"location":{"coordinates":[-73.98241999999999,40.579505]},"logistic_id":"3","name":"Riviera Caterer"}
+{"location_id":4,"location":{"coordinates":[-73.8601152,40.7311739]},"logistic_id":"4","name":"Tov Kosher Kitchen"}
+{"location_id":5,"location":{"coordinates":[-73.8803827,40.7643124]},"logistic_id":"5","name":"Brunos On The Boulevard"}
+{"location_id":6,"location":{"coordinates":[-73.98513559999999,40.7676919]},"logistic_id":"6","name":"Dj Reynolds Pub And Restaurant"}
+{"location_id":7,"location":{"coordinates":[-73.9068506,40.6199034]},"logistic_id":"7","name":"Wilken'S Fine Food"}
+{"location_id":8,"location":{"coordinates":[-74.00528899999999,40.628886]},"logistic_id":"8","name":"Regina Caterers"}
+{"location_id":9,"location":{"coordinates":[-73.9482609,40.6408271]},"logistic_id":"9","name":"Taste The Tropics Ice Cream"}
+{"location_id":10,"location":{"coordinates":[-74.1377286,40.6119572]},"logistic_id":"10","name":"Kosher Island"}
+{"location_id":11,"location":{"coordinates":[-73.8786113,40.8502883]},"logistic_id":"1","name":"Wild Asia"}
+{"location_id":12,"location":{"coordinates":[-73.9973325,40.61174889999999]},"logistic_id":"2","name":"C  C Catering Service"}
+{"location_id":13,"location":{"coordinates":[-73.96926909999999,40.7685235]},"logistic_id":"3","name":"1 East 66Th Street Kitchen"}
+{"location_id":14,"location":{"coordinates":[-73.871194,40.6730975]},"logistic_id":"4","name":"May May Kitchen"}
+{"location_id":15,"location":{"coordinates":[-73.9653967,40.6064339]},"logistic_id":"5","name":"Seuda Foods"}
+{"location_id":16,"location":{"coordinates":[-73.97822040000001,40.6435254]},"logistic_id":"6","name":"Carvel Ice Cream"}
+{"location_id":17,"location":{"coordinates":[-73.7032601,40.7386417]},"logistic_id":"7","name":"Carvel Ice Cream"}
+{"location_id":18,"location":{"coordinates":[-74.0259567,40.6353674]},"logistic_id":"8","name":"Nordic Delicacies"}
+{"location_id":19,"location":{"coordinates":[-73.9829239,40.6580753]},"logistic_id":"9","name":"The Movable Feast"}
+{"location_id":20,"location":{"coordinates":[-73.839297,40.78147]},"logistic_id":"10","name":"Sal'S Deli"}
+{"location_id":21,"location":{"coordinates":[-73.95171,40.767461]},"logistic_id":"1","name":"Glorious Food"}
+{"location_id":22,"location":{"coordinates":[-73.9925306,40.7309346]},"logistic_id":"2","name":"Bully'S Deli"}
+{"location_id":23,"location":{"coordinates":[-73.976112,40.786714]},"logistic_id":"3","name":"Harriet'S Kitchen"}
+{"location_id":24,"location":{"coordinates":[-73.94024739999999,40.7623288]},"logistic_id":"4","name":"Steve Chu'S Deli  Grocery"}
+{"location_id":25,"location":{"coordinates":[-73.96805719999999,40.7925587]},"logistic_id":"5","name":"P  S Deli Grocery"}
+{"location_id":26,"location":{"coordinates":[-73.996984,40.72589]},"logistic_id":"6","name":"Angelika Film Center"}
+{"location_id":27,"location":{"coordinates":[-73.9634876,40.6940001]},"logistic_id":"7","name":"White Castle"}
+{"location_id":28,"location":{"coordinates":[-73.8642349,40.75356]},"logistic_id":"8","name":"Ho Mei Restaurant"}
+{"location_id":29,"location":{"coordinates":[-74.0085357,40.70620539999999]},"logistic_id":"9","name":"The Country Cafe"}
+{"location_id":30,"location":{"coordinates":[-73.9246028,40.6522396]},"logistic_id":"10","name":"Shashemene Int'L Restaura"}
+{"location_id":31,"location":{"coordinates":[-74.00920839999999,40.7132925]},"logistic_id":"1","name":"Downtown Deli"}
+{"location_id":32,"location":{"coordinates":[-73.84856870000002,40.8903781]},"logistic_id":"2","name":"Carvel Ice Cream"}
+{"location_id":33,"location":{"coordinates":[-73.991495,40.692273]},"logistic_id":"3","name":"Dunkin' Donuts"}
+{"location_id":34,"location":{"coordinates":[-73.9998042,40.7251256]},"logistic_id":"4","name":"Olive'S"}
+{"location_id":35,"location":{"coordinates":[-73.8893654,40.81376179999999]},"logistic_id":"5","name":"Happy Garden"}
+{"location_id":36,"location":{"coordinates":[-73.990494,40.7569545]},"logistic_id":"6","name":"Cafe Metro"}
+{"location_id":37,"location":{"coordinates":[-73.902463,40.694924]},"logistic_id":"7","name":"Tony'S Deli"}
+{"location_id":38,"location":{"coordinates":[-73.97534999999999,40.7516269]},"logistic_id":"8","name":"Lexler Deli"}
+{"location_id":39,"location":{"coordinates":[-74.1459332,40.6103714]},"logistic_id":"9","name":"Bagels N Buns"}
+{"location_id":40,"location":{"coordinates":[-73.8740217,40.7135015]},"logistic_id":"10","name":"Hot Bagels"}
+{"location_id":41,"location":{"coordinates":[-73.8309503,40.7001121]},"logistic_id":"1","name":"Snack Time Grill"}
+{"location_id":42,"location":{"coordinates":[-73.9791458,40.744328]},"logistic_id":"2","name":"Domino'S Pizza"}
+{"location_id":43,"location":{"coordinates":[-73.95685019999999,40.7753401]},"logistic_id":"3","name":"Lorenzo  Maria'S"}
+{"location_id":44,"location":{"coordinates":[-73.975393,40.757365]},"logistic_id":"4","name":"Berkely"}
+{"location_id":45,"location":{"coordinates":[-73.9075537,40.6438684]},"logistic_id":"5","name":"Sonny'S Heros"}
+{"location_id":46,"location":{"coordinates":[-74.0796436,40.59878339999999]},"logistic_id":"6","name":"Carvel Ice Cream"}
+{"location_id":47,"location":{"coordinates":[-73.92701509999999,40.6620192]},"logistic_id":"7","name":"Golden Pavillion"}
+{"location_id":48,"location":{"coordinates":[-73.9806854,40.7778589]},"logistic_id":"8","name":"Domino'S Pizza"}
+{"location_id":49,"location":{"coordinates":[-73.9615132,40.6253268]},"logistic_id":"9","name":"Kosher Bagel Hole"}
+{"location_id":50,"location":{"coordinates":[-73.96084119999999,40.8014307]},"logistic_id":"10","name":"Spoon Bread Catering"}
+{"location_id":51,"location":{"coordinates":[-84.2040813,9.9986585]},"logistic_id":"1","name":"Terminal Cafe/Yankee Clipper"}
+{"location_id":52,"location":{"coordinates":[-74.0228449,40.6281815]},"logistic_id":"2","name":"Mejlander  Mulgannon"}
+{"location_id":53,"location":{"coordinates":[-74.1178949,40.5734906]},"logistic_id":"3","name":"Plaza Bagels  Deli"}
+{"location_id":54,"location":{"coordinates":[-74.0061936,40.7092038]},"logistic_id":"4","name":"Texas Rotisserie"}
+{"location_id":55,"location":{"coordinates":[-74.03400479999999,40.6127077]},"logistic_id":"5","name":"Philadelhia Grille Express"}
+{"location_id":56,"location":{"coordinates":[-73.96252129999999,40.7098035]},"logistic_id":"6","name":"Peter Luger Steakhouse"}
+{"location_id":57,"location":{"coordinates":[-73.9712,40.751703]},"logistic_id":"7","name":"Palm Restaurant"}
+{"location_id":58,"location":{"coordinates":[-73.8941893,40.8634684]},"logistic_id":"8","name":"Happy Garden"}
+{"location_id":59,"location":{"coordinates":[-73.9774394,40.7604522]},"logistic_id":"9","name":"21 Club"}
+{"location_id":60,"location":{"coordinates":[-73.81363999999999,40.82941100000001]},"logistic_id":"10","name":"Manhem Club"}
+{"location_id":61,"location":{"coordinates":[-74.15235919999999,40.5563756]},"logistic_id":"1","name":"B  M Hot Bagel  Grocery"}
+{"location_id":62,"location":{"coordinates":[-73.966032,40.762832]},"logistic_id":"2","name":"Isle Of Capri Resturant"}
+{"location_id":63,"location":{"coordinates":[-73.9891878,40.7375638]},"logistic_id":"3","name":"Old Town Bar  Restaurant"}
+{"location_id":64,"location":{"coordinates":[-73.94839189999999,40.7224876]},"logistic_id":"4","name":"Polish National Home"}
+{"location_id":65,"location":{"coordinates":[-73.97166039999999,40.764832]},"logistic_id":"5","name":"Metropolitan Club"}
+{"location_id":66,"location":{"coordinates":[-74.00310999999999,40.7348888]},"logistic_id":"6","name":"Seville Restaurant"}
+{"location_id":67,"location":{"coordinates":[-74.0010484,40.71599000000001]},"logistic_id":"7","name":"Criminal Court Bldg Cafeteria"}
+{"location_id":68,"location":{"coordinates":[-73.9056678,40.7066898]},"logistic_id":"8","name":"Gottscheer Hall"}
+{"location_id":69,"location":{"coordinates":[-73.9788694,40.7665961]},"logistic_id":"9","name":"Nyac Main Dining Room"}
+{"location_id":70,"location":{"coordinates":[-73.98146,40.7250067]},"logistic_id":"10","name":"7B Bar"}
+{"location_id":71,"location":{"coordinates":[-73.86137149999999,40.7293762]},"logistic_id":"1","name":"Ben-Best Deli  Restaurant"}
+{"location_id":72,"location":{"coordinates":[-73.9805679,40.7659436]},"logistic_id":"2","name":"Cafe Atelier (Art Students League)"}
+{"location_id":73,"location":{"coordinates":[-73.965531,40.765431]},"logistic_id":"3","name":"Donohue'S Steak House"}
+{"location_id":74,"location":{"coordinates":[-73.9818918,40.6901211]},"logistic_id":"4","name":"Junior'S"}
+{"location_id":75,"location":{"coordinates":[-73.98621899999999,40.763406]},"logistic_id":"5","name":"Tout Va Bien"}
+{"location_id":76,"location":{"coordinates":[-74.138263,40.546681]},"logistic_id":"6","name":"Great Kills Yacht Club"}
+{"location_id":77,"location":{"coordinates":[-73.9775552,40.7432016]},"logistic_id":"7","name":"Marchis Restaurant"}
+{"location_id":78,"location":{"coordinates":[-73.95443709999999,40.5877993]},"logistic_id":"8","name":"Towne Cafe"}
+{"location_id":79,"location":{"coordinates":[-73.840437,40.6627235]},"logistic_id":"9","name":"New Park Pizzeria  Restaurant"}
+{"location_id":80,"location":{"coordinates":[-73.96485799999999,40.761899]},"logistic_id":"10","name":"Serendipity 3"}
+{"location_id":81,"location":{"coordinates":[-73.7522366,40.7766941]},"logistic_id":"1","name":"Douglaston Club"}
+{"location_id":82,"location":{"coordinates":[-73.9151096,40.763377]},"logistic_id":"2","name":"Rizzo'S Fine Pizza"}
+{"location_id":83,"location":{"coordinates":[-74.002944,40.652779]},"logistic_id":"3","name":"Melody Lanes"}
+{"location_id":84,"location":{"coordinates":[-73.84971759999999,40.8304811]},"logistic_id":"4","name":"The New Starling Athletic Club Of The Bronx"}
+{"location_id":85,"location":{"coordinates":[-74.00619499999999,40.735663]},"logistic_id":"5","name":"White Horse Tavern"}
+{"location_id":86,"location":{"coordinates":[-74.0707363,40.59321569999999]},"logistic_id":"6","name":"Crystal Room"}
+{"location_id":87,"location":{"coordinates":[-74.07444319999999,40.6096914]},"logistic_id":"7","name":"Labetti'S Post # 2159"}
+{"location_id":88,"location":{"coordinates":[-73.9727638,40.588853]},"logistic_id":"8","name":"Shell Lanes"}
+{"location_id":89,"location":{"coordinates":[-73.9896713,40.7287978]},"logistic_id":"9","name":"Mcsorley'S Old Ale House"}
+{"location_id":90,"location":{"coordinates":[-73.99950489999999,40.7169224]},"logistic_id":"10","name":"Forlinis Restaurant"}
+{"location_id":91,"location":{"coordinates":[-74.2274942,40.5071996]},"logistic_id":"1","name":"South Shore Swimming Club"}
+{"location_id":92,"location":{"coordinates":[-74.0037823,40.7380122]},"logistic_id":"2","name":"Corner Bistro"}
+{"location_id":93,"location":{"coordinates":[-73.94933739999999,40.6509823]},"logistic_id":"3","name":"Nostrand Donut Shop"}
+{"location_id":94,"location":{"coordinates":[-73.97557069999999,40.7596796]},"logistic_id":"4","name":"La Grenouille"}
+{"location_id":95,"location":{"coordinates":[-73.952449,40.776325]},"logistic_id":"5","name":"Dorrian'S Red Hand Restaurant"}
+{"location_id":96,"location":{"coordinates":[-73.9395182,40.8422945]},"logistic_id":"6","name":"Como Pizza"}
+{"location_id":97,"location":{"coordinates":[-73.9973041,40.7188698]},"logistic_id":"7","name":"Angelo Of Mulberry St."}
+{"location_id":98,"location":{"coordinates":[-74.001043,40.729795]},"logistic_id":"8","name":"Panchito'S"}
+{"location_id":99,"location":{"coordinates":[-74.0166091,40.6284767]},"logistic_id":"9","name":"New Corner"}
+{"location_id":100,"location":{"coordinates":[-74.004758,40.741207]},"logistic_id":"10","name":"Old Homestead"}
+{"location_id":101,"location":{"coordinates":[-48.9424,-16.3550032]},"logistic_id":"1","name":"Dining Room"}
+{"location_id":102,"location":{"coordinates":[-73.98126069999999,40.7547107]},"logistic_id":"2","name":"The Princeton Club"}
+{"location_id":103,"location":{"coordinates":[-73.9646207,40.7550069]},"logistic_id":"3","name":"Le Perigord"}
+{"location_id":104,"location":{"coordinates":[-74.1220973,40.6129407]},"logistic_id":"4","name":"Joe  Pat'S Pizzeria"}
+{"location_id":105,"location":{"coordinates":[-73.9365108,40.8497077]},"logistic_id":"5","name":"Reynold'S Bar"}
+{"location_id":106,"location":{"coordinates":[-73.9979214,40.7371344]},"logistic_id":"6","name":"Spain Restaurant  Bar"}
+{"location_id":107,"location":{"coordinates":[-73.9446421,40.7253944]},"logistic_id":"7","name":"Palace Cafe"}
+{"location_id":108,"location":{"coordinates":[-73.92506,40.8275556]},"logistic_id":"8","name":"Yankee Tavern"}
+{"location_id":109,"location":{"coordinates":[-73.99987229999999,40.7386361]},"logistic_id":"9","name":"Donut Pub"}
+{"location_id":110,"location":{"coordinates":[-74.0056649,40.7452371]},"logistic_id":"10","name":"Moran'S Chelsea"}
+{"location_id":111,"location":{"coordinates":[-73.96392089999999,40.8033908]},"logistic_id":"2","name":"V  T Restaurant"}
+{"location_id":112,"location":{"coordinates":[-73.9590059,40.7090147]},"logistic_id":"2","name":"Reben Luncheonette"}
+{"location_id":113,"location":{"coordinates":[-73.7867565,40.7271312]},"logistic_id":"3","name":"King Yum Restaurant"}
+{"location_id":114,"location":{"coordinates":[-73.9896898,40.6199526]},"logistic_id":"4","name":"JV Famous Pizza"}
+{"location_id":115,"location":{"coordinates":[-73.8850023,40.7494272]},"logistic_id":"5","name":"Jahn'S Restaurant"}
+{"location_id":116,"location":{"coordinates":[-73.9799932,40.7660886]},"logistic_id":"6","name":"La Parisienne Diner"}
+{"location_id":117,"location":{"coordinates":[-73.989131,40.760039]},"logistic_id":"7","name":"Joe Allen Restaurant"}
+{"location_id":118,"location":{"coordinates":[-74.16536339999999,40.5450793]},"logistic_id":"8","name":"Joyce'S Tavern"}
+{"location_id":119,"location":{"coordinates":[-74.0003315,40.7274874]},"logistic_id":"9","name":"Arturo'S"}
+{"location_id":120,"location":{"coordinates":[-73.988948,40.760337]},"logistic_id":"10","name":"Barbetta Restaurant"}
+{"location_id":121,"location":{"coordinates":[-73.982241,40.576366]},"logistic_id":"1","name":"Gargiulo'S Restaurant"}
+{"location_id":122,"location":{"coordinates":[-73.96117869999999,40.7619226]},"logistic_id":"2","name":"Il Vagabondo Restaurant"}
+{"location_id":123,"location":{"coordinates":[-73.856132,40.743841]},"logistic_id":"3","name":"Parkside Restaurant"}
+{"location_id":124,"location":{"coordinates":[-73.91427200000001,40.7569379]},"logistic_id":"4","name":"Lavelle'S Admiral'S Club"}
+{"location_id":125,"location":{"coordinates":[-73.963506,40.758273]},"logistic_id":"5","name":"Neary'S Pub"}
+{"location_id":126,"location":{"coordinates":[-73.87786539999999,40.8724377]},"logistic_id":"6","name":"Mcdwyers Pub"}
+{"location_id":127,"location":{"coordinates":[-73.9983,40.715051]},"logistic_id":"7","name":"Mee Sum Coffee Shop"}
+{"location_id":128,"location":{"coordinates":[-73.70902579999999,40.7276012]},"logistic_id":"8","name":"Nancy'S Fire Side"}
+{"location_id":129,"location":{"coordinates":[-73.9990337,40.7143954]},"logistic_id":"9","name":"Hop Kee Restaurant"}
+{"location_id":130,"location":{"coordinates":[-74.0049219,40.720699]},"logistic_id":"10","name":"Nancy Whiskey Pub"}
+{"location_id":131,"location":{"coordinates":[-73.808593,40.702028]},"logistic_id":"1","name":"Blarney Bar"}
+{"location_id":132,"location":{"coordinates":[-73.78999089999999,40.7118632]},"logistic_id":"2","name":"Margherita Pizza"}
+{"location_id":133,"location":{"coordinates":[-73.8299395,40.5812137]},"logistic_id":"3","name":"Healy'S Pub"}
+{"location_id":134,"location":{"coordinates":[-73.98586209999999,40.67017250000001]},"logistic_id":"4","name":"Fifth Avenue Bingo"}
+{"location_id":135,"location":{"coordinates":[-74.1402105,40.6301893]},"logistic_id":"5","name":"Denino'S Pizzeria Tavern"}
+{"location_id":136,"location":{"coordinates":[-73.942849,40.6076256]},"logistic_id":"6","name":"Michael'S Restaurant"}
+{"location_id":137,"location":{"coordinates":[-73.99532099999999,40.750205]},"logistic_id":"7","name":"New York Pizza Suprema"}
+{"location_id":138,"location":{"coordinates":[-73.9736776,40.7535755]},"logistic_id":"8","name":"Nanni Restaurant"}
+{"location_id":139,"location":{"coordinates":[-73.82770529999999,40.6944628]},"logistic_id":"9","name":"Lenihan'S Saloon"}
+{"location_id":140,"location":{"coordinates":[-73.8682701,40.745683]},"logistic_id":"10","name":"Emilio Iii Bar"}
+{"location_id":141,"location":{"coordinates":[-74.0086833,40.7052024]},"logistic_id":"1","name":"Killarney Rose"}
+{"location_id":142,"location":{"coordinates":[-73.8216767,40.6689548]},"logistic_id":"2","name":"Don Peppe"}
+{"location_id":143,"location":{"coordinates":[-73.9250442,40.5595462]},"logistic_id":"3","name":"Blarney Castle"}
+{"location_id":144,"location":{"coordinates":[-73.955074,40.599217]},"logistic_id":"4","name":"Three Star Restaurant"}
+{"location_id":145,"location":{"coordinates":[-73.98926,40.7509054]},"logistic_id":"5","name":"Blarney Rock"}
+{"location_id":146,"location":{"coordinates":[-73.98306099999999,40.7441419]},"logistic_id":"6","name":"Desmond'S Tavern"}
+{"location_id":147,"location":{"coordinates":[-73.8204154,40.7242443]},"logistic_id":"7","name":"Naomi Kosher Pizza"}
+{"location_id":148,"location":{"coordinates":[-73.9396213,40.5841703]},"logistic_id":"8","name":"Roll-N-Roaster"}
+{"location_id":149,"location":{"coordinates":[-74.0016583,40.7319679]},"logistic_id":"9","name":"Tio Pepe"}
+{"location_id":150,"location":{"coordinates":[-73.9420751,40.6002442]},"logistic_id":"10","name":"Brennan  Carr"}
+{"location_id":151,"location":{"coordinates":[-73.9002615,40.885186]},"logistic_id":"1","name":"The Punch Bowl"}
+{"location_id":152,"location":{"coordinates":[-73.8700163,40.7504734]},"logistic_id":"2","name":"Jardin De China Rest"}
+{"location_id":153,"location":{"coordinates":[-73.8236419,40.7261682]},"logistic_id":"3","name":"Irish Cottage"}
+{"location_id":154,"location":{"coordinates":[-74.0137007,40.7062029]},"logistic_id":"4","name":"Blarney Stone"}
+{"location_id":155,"location":{"coordinates":[-73.8221418,40.7272376]},"logistic_id":"5","name":"Shimons Kosher Pizza"}
+{"location_id":156,"location":{"coordinates":[-74.0027865,40.7340505]},"logistic_id":"6","name":"The Riviera Cafe"}
+{"location_id":157,"location":{"coordinates":[-73.9927131,40.6984887]},"logistic_id":"7","name":"Fascati'S Pizzeria"}
+{"location_id":158,"location":{"coordinates":[-73.97598099999999,40.745132]},"logistic_id":"8","name":"Baby Bo'S Burritos"}
+{"location_id":159,"location":{"coordinates":[-73.9690789,40.7594184]},"logistic_id":"9","name":"Shun Lee Palace Restaurant"}
+{"location_id":160,"location":{"coordinates":[-74.11223799999999,40.629819]},"logistic_id":"10","name":"Li Greci'S Staaten Restaurant"}
+{"location_id":161,"location":{"coordinates":[-73.9300062,40.5943553]},"logistic_id":"1","name":"Tamaqua"}
+{"location_id":162,"location":{"coordinates":[-73.9168424,40.8401362]},"logistic_id":"2","name":"Munchtime"}
+{"location_id":163,"location":{"coordinates":[-73.74292179999999,40.7305714]},"logistic_id":"3","name":"Cara Mia"}
+{"location_id":164,"location":{"coordinates":[-73.8194559,40.8899176]},"logistic_id":"4","name":"Ihop"}
+{"location_id":165,"location":{"coordinates":[-73.809167,40.705421]},"logistic_id":"5","name":"Maloney'S Bar"}
+{"location_id":166,"location":{"coordinates":[-74.10465599999999,40.58834]},"logistic_id":"6","name":"Richmond County Country Club"}
+{"location_id":167,"location":{"coordinates":[-73.8845166,40.744772]},"logistic_id":"7","name":"La Fusta Restaurant"}
+{"location_id":168,"location":{"coordinates":[-73.9827418,40.7655827]},"logistic_id":"8","name":"Patsy'S Italian Restaurant"}
+{"location_id":169,"location":{"coordinates":[-73.8513114,40.8316981]},"logistic_id":"9","name":"Lulu'S Coffee Shop"}
+{"location_id":170,"location":{"coordinates":[-73.960573,40.760982]},"logistic_id":"10","name":"Dangerfield'S Night Club"}
+{"location_id":171,"location":{"coordinates":[-74.00065800000002,40.735114]},"logistic_id":"1","name":"El Charro Espanol"}
+{"location_id":172,"location":{"coordinates":[-73.9556394,40.768679]},"logistic_id":"2","name":"Finnegan'S Wake"}
+{"location_id":173,"location":{"coordinates":[-73.9907801,40.6188665]},"logistic_id":"3","name":"Da Vinci Pizza"}
+{"location_id":174,"location":{"coordinates":[-73.9681178,40.678776]},"logistic_id":"4","name":"Mitchell'S Restaurant"}
+{"location_id":175,"location":{"coordinates":[-73.979839,40.739796]},"logistic_id":"5","name":"Mexico Lindo Restaurant"}
+{"location_id":176,"location":{"coordinates":[-73.815175,40.8137649]},"logistic_id":"6","name":"Marina Delray"}
+{"location_id":177,"location":{"coordinates":[-73.99682299999999,40.753182]},"logistic_id":"7","name":"Twins Pub"}
+{"location_id":178,"location":{"coordinates":[-73.9270926,40.6142428]},"logistic_id":"8","name":"New Floridian Diner"}
+{"location_id":179,"location":{"coordinates":[-74.03345,40.612598]},"logistic_id":"9","name":"Narrows Coffee Shop"}
+{"location_id":180,"location":{"coordinates":[-74.0029643,40.7231081]},"logistic_id":"10","name":"Broome Street Bar"}
+{"location_id":181,"location":{"coordinates":[-73.9121201,40.7749286]},"logistic_id":"1","name":"O'Hanlon'S Pub"}
+{"location_id":182,"location":{"coordinates":[-73.90364869999999,40.74133339999999]},"logistic_id":"2","name":"Charlies Sports Bar"}
+{"location_id":183,"location":{"coordinates":[-73.9593019,40.77105400000001]},"logistic_id":"3","name":"Jg Melon Restaurant"}
+{"location_id":184,"location":{"coordinates":[-73.7775242,40.778475]},"logistic_id":"4","name":"Jack'S Pizza  Pasta"}
+{"location_id":185,"location":{"coordinates":[-74.0084936,40.7258072]},"logistic_id":"5","name":"Emerald Pub"}
+{"location_id":186,"location":{"coordinates":[-73.9788694,40.7665961]},"logistic_id":"6","name":"Tap Room"}
+{"location_id":187,"location":{"coordinates":[-73.9788694,40.7665961]},"logistic_id":"7","name":"Cocktail Room (Nyac)"}
+{"location_id":188,"location":{"coordinates":[-73.98557920000002,40.7686093]},"logistic_id":"8","name":"Flame Restaurant Coffee House"}
+{"location_id":189,"location":{"coordinates":[-73.9629729,40.7638694]},"logistic_id":"9","name":"Jackson Hole"}
+{"location_id":190,"location":{"coordinates":[-73.8811834,40.7017759]},"logistic_id":"10","name":"Zum Stammtisch"}
+{"location_id":191,"location":{"coordinates":[-73.985535,40.730605]},"logistic_id":"1","name":"John'S Restaurant"}
+{"location_id":192,"location":{"coordinates":[-73.988991,40.728848]},"logistic_id":"2","name":"Grassroot Tavern"}
+{"location_id":193,"location":{"coordinates":[-74.1350211,40.6369042]},"logistic_id":"3","name":"Buddy'S Wonder Bar"}
+{"location_id":194,"location":{"coordinates":[-73.876876,40.703885]},"logistic_id":"4","name":"The Assembly Bar"}
+{"location_id":195,"location":{"coordinates":[-73.9870818,40.7523004]},"logistic_id":"5","name":"Mr Broadway Kosher Restaurant"}
+{"location_id":196,"location":{"coordinates":[-73.911784,40.764766]},"logistic_id":"6","name":"Piccola Venezia"}
+{"location_id":197,"location":{"coordinates":[-74.1003379,40.5655379]},"logistic_id":"7","name":"Ni-Ni'S Cafe"}
+{"location_id":198,"location":{"coordinates":[-73.9215284,40.8678204]},"logistic_id":"8","name":"Capitol Restaurant"}
+{"location_id":199,"location":{"coordinates":[-73.9550129,40.768019]},"logistic_id":"9","name":"Malaga Restaurant"}
+{"location_id":200,"location":{"coordinates":[-73.977035,40.762307]},"logistic_id":"10","name":"La Bonne Soupe Bistro"}
+{"location_id":201,"location":{"coordinates":[-73.9672945,40.7561212]},"logistic_id":"1","name":"Mimis Restaurant  Bar"}
+{"location_id":202,"location":{"coordinates":[-73.83856999999999,40.655669]},"logistic_id":"2","name":"Lenny'S Clam Bar"}
+{"location_id":203,"location":{"coordinates":[-73.9542568,40.7641379]},"logistic_id":"3","name":"Griffis Faculty Club"}
+{"location_id":204,"location":{"coordinates":[-73.82629709999999,40.700598]},"logistic_id":"4","name":"Little Brown Jug"}
+{"location_id":205,"location":{"coordinates":[-73.8305269,40.7089494]},"logistic_id":"5","name":"Dani Pizza And Restaurant"}
+{"location_id":206,"location":{"coordinates":[-73.98185529999999,40.7782266]},"logistic_id":"6","name":"Gray'S Papaya"}
+{"location_id":207,"location":{"coordinates":[-73.95802549999999,40.6487475]},"logistic_id":"7","name":"Mcdonald'S"}
+{"location_id":208,"location":{"coordinates":[-73.95006049999999,40.5838274]},"logistic_id":"8","name":"El Greco Diner"}
+{"location_id":209,"location":{"coordinates":[-74.00259299999999,40.7324849]},"logistic_id":"9","name":"One If By Land Two If By Sea"}
+{"location_id":210,"location":{"coordinates":[-73.8618426,40.6797488]},"logistic_id":"10","name":"Mcdonald'S"}
+{"location_id":211,"location":{"coordinates":[-73.9819129,40.77151449999999]},"logistic_id":"1","name":"Fiorellos"}
+{"location_id":212,"location":{"coordinates":[-73.9812843,40.5947365]},"logistic_id":"2","name":"Lb Spumoni Gardens"}
+{"location_id":213,"location":{"coordinates":[-73.8344778,40.7692995]},"logistic_id":"3","name":"Amore Pizzeria  Restaurant"}
+{"location_id":214,"location":{"coordinates":[-73.86697,40.89794699999999]},"logistic_id":"4","name":"The Lark'S Nest"}
+{"location_id":215,"location":{"coordinates":[-73.8786113,40.8502883]},"logistic_id":"5","name":"Terrace Cafe"}
+{"location_id":216,"location":{"coordinates":[-73.8786113,40.8502883]},"logistic_id":"6","name":"African Terrace"}
+{"location_id":217,"location":{"coordinates":[-73.8786113,40.8502883]},"logistic_id":"7","name":"Cool Zone"}
+{"location_id":218,"location":{"coordinates":[-73.8786113,40.8502883]},"logistic_id":"8","name":"African Market (Baboon Cafe)"}
+{"location_id":219,"location":{"coordinates":[-73.8786113,40.8502883]},"logistic_id":"9","name":"Beaver Pond"}
+{"location_id":220,"location":{"coordinates":[-74.1005771,40.6134163]},"logistic_id":"10","name":"Roadhouse Restaurant"}
+{"location_id":221,"location":{"coordinates":[-73.971128,40.749869]},"logistic_id":"1","name":"Ford Foundation Cafeteria"}
+{"location_id":222,"location":{"coordinates":[-74.00066699999999,40.736224]},"logistic_id":"2","name":"Elephant  Castle"}
+{"location_id":223,"location":{"coordinates":[-73.97705599999999,40.752998]},"logistic_id":"3","name":"Oyster Bar"}
+{"location_id":224,"location":{"coordinates":[-73.98431219999999,40.7258174]},"logistic_id":"4","name":"Cherry Tavern"}
+{"location_id":225,"location":{"coordinates":[-73.9827221,40.7561037]},"logistic_id":"5","name":"Red Flame Diner"}
+{"location_id":226,"location":{"coordinates":[-74.099018,40.58116500000001]},"logistic_id":"6","name":"Colonnade Diner"}
+{"location_id":227,"location":{"coordinates":[-73.9537859,40.775493]},"logistic_id":"7","name":"Brady'S Bar"}
+{"location_id":228,"location":{"coordinates":[-73.9181846,40.6157107]},"logistic_id":"8","name":"Mill Basin Kosher Deli"}
+{"location_id":229,"location":{"coordinates":[-73.977114,40.756295]},"logistic_id":"9","name":"Maggies Place"}
+{"location_id":230,"location":{"coordinates":[-74.0062401,40.7397546]},"logistic_id":"10","name":"Da Silvano Restaurant"}
+{"location_id":231,"location":{"coordinates":[-73.9765607,40.7443236]},"logistic_id":"1","name":"Benjamin"}
+{"location_id":232,"location":{"coordinates":[-73.984838,40.756594]},"logistic_id":"2","name":"Jimmy'S Corner"}
+{"location_id":233,"location":{"coordinates":[-73.9789394,40.6429349]},"logistic_id":"3","name":"Denny'S Pub"}
+{"location_id":234,"location":{"coordinates":[-74.00340299999999,40.733235]},"logistic_id":"4","name":"Maries Crisis Cafe"}
+{"location_id":235,"location":{"coordinates":[-74.00341019999999,40.7335084]},"logistic_id":"5","name":"Boots  Saddle Bar"}
+{"location_id":236,"location":{"coordinates":[-74.0078144,40.6202393]},"logistic_id":"6","name":"New Parkway Restaurant"}
+{"location_id":237,"location":{"coordinates":[153.1628795,-28.0168595]},"logistic_id":"7","name":"Sammy'S Steakhouse"}
+{"location_id":238,"location":{"coordinates":[-74.000399,40.740848]},"logistic_id":"8","name":"Cafe Riazor"}
+{"location_id":239,"location":{"coordinates":[-73.9714599,40.759647]},"logistic_id":"9","name":"The Brook"}
+{"location_id":240,"location":{"coordinates":[-73.998254,40.7179289]},"logistic_id":"10","name":"Il Cortile Restaurant"}
+{"location_id":241,"location":{"coordinates":[-74.002139,40.7261357]},"logistic_id":"1","name":"Raouls"}
+{"location_id":242,"location":{"coordinates":[-73.94347599999999,40.718386]},"logistic_id":"2","name":"Frost Restaurant"}
+{"location_id":243,"location":{"coordinates":[-73.97691499999999,40.757028]},"logistic_id":"3","name":"Hatsuhana Restaurant"}
+{"location_id":244,"location":{"coordinates":[-73.9668354,40.7568328]},"logistic_id":"4","name":"La Mangeoire"}
+{"location_id":245,"location":{"coordinates":[-73.814835,40.7288261]},"logistic_id":"5","name":"Valentino'S Pizza"}
+{"location_id":246,"location":{"coordinates":[-73.970169,40.764834]},"logistic_id":"6","name":"Viand Coffee Shop"}
+{"location_id":247,"location":{"coordinates":[-73.970668,40.751453]},"logistic_id":"7","name":"Palm Too"}
+{"location_id":248,"location":{"coordinates":[-91.5971285,41.6823902]},"logistic_id":"8","name":"Steve'S Coffee Shop"}
+{"location_id":249,"location":{"coordinates":[-73.9100082,40.8863835]},"logistic_id":"9","name":"Blue Bay Restaurant"}
+{"location_id":250,"location":{"coordinates":[-73.9717,40.756457]},"logistic_id":"10","name":"Nada-Sushi"}
+{"location_id":251,"location":{"coordinates":[-73.942599,40.67096]},"logistic_id":"1","name":"The Hytes Bar"}
+{"location_id":252,"location":{"coordinates":[-73.7796156,40.7298006]},"logistic_id":"2","name":"P.J.' S"}
+{"location_id":253,"location":{"coordinates":[-73.9486257,40.7813724]},"logistic_id":"3","name":"Reif'S Tavern"}
+{"location_id":254,"location":{"coordinates":[-74.1018239,40.630788]},"logistic_id":"4","name":"Jody'S Club"}
+{"location_id":255,"location":{"coordinates":[-73.8335566,40.7703224]},"logistic_id":"5","name":"Whitestone Lanes"}
+{"location_id":256,"location":{"coordinates":[-73.8818014,40.7347681]},"logistic_id":"6","name":"John'S Pizzeria"}
+{"location_id":257,"location":{"coordinates":[-73.790804,40.8541848]},"logistic_id":"7","name":"Seashore Restaurant"}
+{"location_id":258,"location":{"coordinates":[-73.76078199999999,40.761876]},"logistic_id":"8","name":"Marbella Restaurant"}
+{"location_id":259,"location":{"coordinates":[-74.00041689999999,40.7302678]},"logistic_id":"9","name":"Caffe Reggio"}
+{"location_id":260,"location":{"coordinates":[-73.984126,40.7567949]},"logistic_id":"10","name":"Cafe Un Deux Trois"}
+{"location_id":261,"location":{"coordinates":[-73.88228649999999,40.6481972]},"logistic_id":"1","name":"Armando'S Pizza"}
+{"location_id":262,"location":{"coordinates":[-73.9818416,40.7760336]},"logistic_id":"2","name":"Dan Tempura"}
+{"location_id":263,"location":{"coordinates":[-73.994428,40.7320132]},"logistic_id":"3","name":"Knickerbocker Bar  Grill"}
+{"location_id":264,"location":{"coordinates":[-73.9873049,40.7592843]},"logistic_id":"4","name":"Pergola Des Artistes"}
+{"location_id":265,"location":{"coordinates":[-73.9808063,40.6895078]},"logistic_id":"5","name":"Mcdonald'S"}
+{"location_id":266,"location":{"coordinates":[-73.9735762,40.74754]},"logistic_id":"6","name":"El Pote Espanol"}
+{"location_id":267,"location":{"coordinates":[-73.94523509999999,40.7177182]},"logistic_id":"7","name":"Cafe Capri"}
+{"location_id":268,"location":{"coordinates":[-73.99472279999999,40.703195]},"logistic_id":"8","name":"The River Cafe"}
+{"location_id":269,"location":{"coordinates":[-74.012376,40.703721]},"logistic_id":"9","name":"White Horse Tavern"}
+{"location_id":270,"location":{"coordinates":[-73.85534559999999,40.8426433]},"logistic_id":"10","name":"Bronx Grill"}
+{"location_id":271,"location":{"coordinates":[-74.00893959999999,40.7151413]},"logistic_id":"1","name":"Mudville Saloon"}
+{"location_id":272,"location":{"coordinates":[-73.9321666,40.6632351]},"logistic_id":"2","name":"White Castle"}
+{"location_id":273,"location":{"coordinates":[-73.7826735,40.8377713]},"logistic_id":"3","name":"Johnny'S Reef Restaurant"}
+{"location_id":274,"location":{"coordinates":[-72.7329266,41.3099228]},"logistic_id":"4","name":"White Castle"}
+{"location_id":275,"location":{"coordinates":[-73.92126499999999,40.743009]},"logistic_id":"5","name":"White Castle"}
+{"location_id":276,"location":{"coordinates":[-73.993031,40.6417669]},"logistic_id":"6","name":"White Castle"}
+{"location_id":277,"location":{"coordinates":[-74.00184349999999,40.684236]},"logistic_id":"7","name":"Ferdinando'S Restaurant"}
+{"location_id":278,"location":{"coordinates":[-73.8451846,40.7200906]},"logistic_id":"8","name":"Mcdonald'S"}
+{"location_id":279,"location":{"coordinates":[-73.9623333,40.7757194]},"logistic_id":"9","name":"Viand Cafe"}
+{"location_id":280,"location":{"coordinates":[-73.9624221,40.77620840000001]},"logistic_id":"10","name":"Nectar Coffee Shop"}
+{"location_id":281,"location":{"coordinates":[-74.0030657,40.7230087]},"logistic_id":"1","name":"The Cupping Room"}
+{"location_id":282,"location":{"coordinates":[-73.9308722,40.656262]},"logistic_id":"2","name":"Mcdonald'S"}
+{"location_id":283,"location":{"coordinates":[-73.9866918,40.7364597]},"logistic_id":"3","name":"Pete'S Tavern"}
+{"location_id":284,"location":{"coordinates":[-73.7566136,40.7483444]},"logistic_id":"4","name":"Gino'S Pizzeria"}
+{"location_id":285,"location":{"coordinates":[-74.00200099999999,40.7285929]},"logistic_id":"5","name":"Villa Mosconi Restaurant"}
+{"location_id":286,"location":{"coordinates":[-74.0075542,40.7077614]},"logistic_id":"6","name":"Jim Brady'S Restaurant"}
+{"location_id":287,"location":{"coordinates":[-73.9035553,40.878342]},"logistic_id":"7","name":"P  K'S Grill"}
+{"location_id":288,"location":{"coordinates":[-73.9030535,40.8812538]},"logistic_id":"8","name":"Mcdonald'S"}
+{"location_id":289,"location":{"coordinates":[-73.9395471,40.8420198]},"logistic_id":"9","name":"Reme Restaurant"}
+{"location_id":290,"location":{"coordinates":[-73.9598324,40.7798381]},"logistic_id":"10","name":"The New Amity Restaurant"}
+{"location_id":291,"location":{"coordinates":[-74.00041259999999,40.7315763]},"logistic_id":"1","name":"Volare Restaurant"}
+{"location_id":292,"location":{"coordinates":[-73.97212999999999,40.7528838]},"logistic_id":"2","name":"Sparks Steak House"}
+{"location_id":293,"location":{"coordinates":[-73.807954,40.715159]},"logistic_id":"3","name":"The Dart Inn"}
+{"location_id":294,"location":{"coordinates":[-73.951199,40.7166026]},"logistic_id":"4","name":"Bamonte'S Restaurant"}
+{"location_id":295,"location":{"coordinates":[-73.9996841,40.7543101]},"logistic_id":"5","name":"Mcdonald'S"}
+{"location_id":296,"location":{"coordinates":[-73.8456653,40.7823455]},"logistic_id":"6","name":"Pizza Town"}
+{"location_id":297,"location":{"coordinates":[-73.86720489999999,40.8977501]},"logistic_id":"7","name":"John Mulligan'S Fireside Pub"}
+{"location_id":298,"location":{"coordinates":[-73.759249,40.761574]},"logistic_id":"8","name":"Burger King"}
+{"location_id":299,"location":{"coordinates":[-74.0094737,40.7258405]},"logistic_id":"9","name":"Ear Inn"}
+{"location_id":300,"location":{"coordinates":[-73.89707140000002,40.7543896]},"logistic_id":"10","name":"Burger King"}
+{"location_id":301,"location":{"coordinates":[-73.8206678,40.7647441]},"logistic_id":"1","name":"Burger King"}
+{"location_id":302,"location":{"coordinates":[-73.977597,40.779593]},"logistic_id":"2","name":"Mughlai Restaurant"}
+{"location_id":303,"location":{"coordinates":[-73.9581492,40.7177363]},"logistic_id":"3","name":"Greenpoint Tavern"}
+{"location_id":304,"location":{"coordinates":[-74.1680654,40.5595469]},"logistic_id":"4","name":"Mcdonald'S"}
+{"location_id":305,"location":{"coordinates":[-73.922642,40.701015]},"logistic_id":"5","name":"Tony'S Pizzeria"}
+{"location_id":306,"location":{"coordinates":[-73.9788758,40.7491708]},"logistic_id":"6","name":"Rossini'S"}
+{"location_id":307,"location":{"coordinates":[-73.90725640000001,40.7601082]},"logistic_id":"7","name":"Pat'S Stationary"}
+{"location_id":308,"location":{"coordinates":[-73.96408199999999,40.7741339]},"logistic_id":"8","name":"Three Guy'S Restaurant"}
+{"location_id":309,"location":{"coordinates":[-73.9574128,40.7701235]},"logistic_id":"9","name":"Cucina Vivolo"}
+{"location_id":310,"location":{"coordinates":[-73.986685,40.73756400000001]},"logistic_id":"10","name":"The Players Club"}
+{"location_id":311,"location":{"coordinates":[-74.0007509,40.7287609]},"logistic_id":"1","name":"Cafe Espanol"}
+{"location_id":312,"location":{"coordinates":[-73.7310899,40.7603325]},"logistic_id":"2","name":"Tjk Cafe  Restaurant"}
+{"location_id":313,"location":{"coordinates":[-73.9704988,40.7552269]},"logistic_id":"3","name":"Smith  Wollensky"}
+{"location_id":314,"location":{"coordinates":[-73.802319,40.780748]},"logistic_id":"4","name":"Mcdonald'S"}
+{"location_id":315,"location":{"coordinates":[-74.00057799999999,40.730204]},"logistic_id":"5","name":"Olive Tree Cafe  Comedy Cellar"}
+{"location_id":316,"location":{"coordinates":[-74.146976,40.625178]},"logistic_id":"6","name":"Perkins Family Restaurant  Bakery"}
+{"location_id":317,"location":{"coordinates":[-73.70073909999999,40.73895539999999]},"logistic_id":"7","name":"Burger King"}
+{"location_id":318,"location":{"coordinates":[-73.9195106,40.6527642]},"logistic_id":"8","name":"Burger King"}
+{"location_id":319,"location":{"coordinates":[-73.951172,40.7773139]},"logistic_id":"9","name":"Tokubei 86"}
+{"location_id":320,"location":{"coordinates":[-73.9491317,40.7445755]},"logistic_id":"10","name":"Manducatis"}
+{"location_id":321,"location":{"coordinates":[-73.792701,40.7702099]},"logistic_id":"3","name":"Divers Cove"}
+{"location_id":322,"location":{"coordinates":[-73.85223080000002,40.7109144]},"logistic_id":"2","name":"Sizzler"}
+{"location_id":323,"location":{"coordinates":[-73.96123879999999,40.635193]},"logistic_id":"3","name":"Mama Lucia"}
+{"location_id":324,"location":{"coordinates":[-73.98621539999999,40.7350907]},"logistic_id":"4","name":"Mariella Pizza"}
+{"location_id":325,"location":{"coordinates":[-73.9832993,40.76754440000001]},"logistic_id":"5","name":"Coliseum Bar Restaurant"}
+{"location_id":326,"location":{"coordinates":[-73.79014660000001,40.769692]},"logistic_id":"6","name":"Vinny'S Pizza"}
+{"location_id":327,"location":{"coordinates":[-73.9633849,40.625169]},"logistic_id":"7","name":"Kosher Delight"}
+{"location_id":328,"location":{"coordinates":[-73.99283419999999,40.75885830000001]},"logistic_id":"8","name":"West Bank Cafe"}
+{"location_id":329,"location":{"coordinates":[-73.972235,40.758066]},"logistic_id":"9","name":"The Four Seasons"}
+{"location_id":330,"location":{"coordinates":[-73.734425,40.7723579]},"logistic_id":"10","name":"La Baraka Restaurant"}
+{"location_id":331,"location":{"coordinates":[-73.984858,40.631394]},"logistic_id":"1","name":"Dairy Luncheonette"}
+{"location_id":332,"location":{"coordinates":[-73.9828058,40.7150766]},"logistic_id":"2","name":"Zafi'S Luncheonette"}
+{"location_id":333,"location":{"coordinates":[-73.9788552,40.6109657]},"logistic_id":"3","name":"La Palina Restaurant"}
+{"location_id":334,"location":{"coordinates":[-74.1321,40.61266000000001]},"logistic_id":"4","name":"Schaffer'S Tavern"}
+{"location_id":335,"location":{"coordinates":[-74.00529,40.73302899999999]},"logistic_id":"5","name":"Ty'S"}
+{"location_id":336,"location":{"coordinates":[-73.7363139,40.767005]},"logistic_id":"6","name":"Aunt Bella'S Rest Of Little Neck"}
+{"location_id":337,"location":{"coordinates":[-73.9321411,40.6094715]},"logistic_id":"7","name":"Mariner Inn"}
+{"location_id":338,"location":{"coordinates":[-74.1235473,40.6215341]},"logistic_id":"8","name":"Exclusive Catering"}
+{"location_id":339,"location":{"coordinates":[-73.78421000000002,40.7577566]},"logistic_id":"9","name":"North Shore Diner"}
+{"location_id":340,"location":{"coordinates":[-74.028273,40.62951959999999]},"logistic_id":"10","name":"Green House Cafe"}
+{"location_id":341,"location":{"coordinates":[-73.82339809999999,40.8276846]},"logistic_id":"1","name":"Mcdonald'S"}
+{"location_id":342,"location":{"coordinates":[-73.958372,40.7420277]},"logistic_id":"2","name":"Water Front Crab House"}
+{"location_id":343,"location":{"coordinates":[-74.0060152,40.7372653]},"logistic_id":"3","name":"La Ripaille Restaurant"}
+{"location_id":344,"location":{"coordinates":[-74.1408495,40.5441055]},"logistic_id":"4","name":"Marina Cafe"}
+{"location_id":345,"location":{"coordinates":[-73.958885,40.7745559]},"logistic_id":"5","name":"Don Filippo Restaurant"}
+{"location_id":346,"location":{"coordinates":[-73.8664386,40.7319364]},"logistic_id":"6","name":"Burger King"}
+{"location_id":347,"location":{"coordinates":[-73.9245566,40.7441786]},"logistic_id":"7","name":"Dazies Restaurant"}
+{"location_id":348,"location":{"coordinates":[-73.89310739999999,40.7545576]},"logistic_id":"8","name":"Triestes Restaurant"}
+{"location_id":349,"location":{"coordinates":[-73.924072,40.76108900000001]},"logistic_id":"9","name":"Omonia Cafe"}
+{"location_id":350,"location":{"coordinates":[-73.9782725,40.7624022]},"logistic_id":"10","name":"Murals On 54/Randolphs'S"}
+{"location_id":351,"location":{"coordinates":[-73.931262,40.598023]},"logistic_id":"1","name":"Veterans Of Foreign Wars Post #107 Canteen"}
+{"location_id":352,"location":{"coordinates":[-73.990556,40.749722]},"logistic_id":"2","name":"Caruso Pizza #2"}
+{"location_id":353,"location":{"coordinates":[-73.933605,40.669476]},"logistic_id":"3","name":"Tropical House Baking Co."}
+{"location_id":354,"location":{"coordinates":[-73.780574,40.6679415]},"logistic_id":"4","name":"Burger King"}
+{"location_id":355,"location":{"coordinates":[-73.8128627,40.7931101]},"logistic_id":"5","name":"Clinton Restaurant"}
+{"location_id":356,"location":{"coordinates":[-73.958529,40.766908]},"logistic_id":"6","name":"Shabu-Shabu 70 Restaurant"}
+{"location_id":357,"location":{"coordinates":[-73.87575,40.8294396]},"logistic_id":"7","name":"Yankee Jz Pizza"}
+{"location_id":358,"location":{"coordinates":[-74.0986428,40.5942955]},"logistic_id":"8","name":"Chen'S Chinese"}
+{"location_id":359,"location":{"coordinates":[-73.993539,40.7474898]},"logistic_id":"9","name":"The Greek Corner"}
+{"location_id":360,"location":{"coordinates":[-73.97328379999999,40.7588047]},"logistic_id":"10","name":"Racquet  Tennis Club"}
+{"location_id":361,"location":{"coordinates":[-74.031688,40.6374532]},"logistic_id":"1","name":"Casa Pepe"}
+{"location_id":362,"location":{"coordinates":[-73.97831029999999,40.7632329]},"logistic_id":"2","name":"Astro Restaurant"}
+{"location_id":363,"location":{"coordinates":[-74.1690735,40.5589805]},"logistic_id":"3","name":"Golden Dove Diner"}
+{"location_id":364,"location":{"coordinates":[-74.0018619,40.7288849]},"logistic_id":"4","name":"Caffe Dante"}
+{"location_id":365,"location":{"coordinates":[-73.9777137,40.6433389]},"logistic_id":"5","name":"Korner Pizzeria"}
+{"location_id":366,"location":{"coordinates":[-73.992182,40.699702]},"logistic_id":"6","name":"Henry'S End"}
+{"location_id":367,"location":{"coordinates":[-74.0062401,40.7397546]},"logistic_id":"7","name":"Souen Restaurant"}
+{"location_id":368,"location":{"coordinates":[-73.98053949999999,40.7469315]},"logistic_id":"8","name":"Villa Berulia"}
+{"location_id":369,"location":{"coordinates":[-73.9840766,40.7628868]},"logistic_id":"9","name":"Victor'S Cafe"}
+{"location_id":370,"location":{"coordinates":[-74.0282415,40.6309663]},"logistic_id":"10","name":"Petes Pizzeria  Restaurant"}
+{"location_id":371,"location":{"coordinates":[-73.98646339999999,40.7507174]},"logistic_id":"1","name":"Keens Steakhouse"}
+{"location_id":372,"location":{"coordinates":[-73.97752600000001,40.745973]},"logistic_id":"2","name":"Bar 515"}
+{"location_id":373,"location":{"coordinates":[-73.8924962,40.7485672]},"logistic_id":"3","name":"Ready Penny Inn"}
+{"location_id":374,"location":{"coordinates":[-73.99914799999999,40.729735]},"logistic_id":"4","name":"Il Mulino"}
+{"location_id":375,"location":{"coordinates":[-73.9651212,40.7603438]},"logistic_id":"5","name":"Felidia Restaurant"}
+{"location_id":376,"location":{"coordinates":[-73.9216671,40.6447189]},"logistic_id":"6","name":"Mcdonald'S"}
+{"location_id":377,"location":{"coordinates":[-73.9993545,40.7286288]},"logistic_id":"7","name":"The Malt House"}
+{"location_id":378,"location":{"coordinates":[-73.9812519,40.7728753]},"logistic_id":"8","name":"Shun Lee"}
+{"location_id":379,"location":{"coordinates":[-73.90401159999999,40.8803571]},"logistic_id":"9","name":"Ihop"}
+{"location_id":380,"location":{"coordinates":[-74.0318242,40.62062239999999]},"logistic_id":"10","name":"Bridgeview Diner"}
+{"location_id":381,"location":{"coordinates":[-73.894071,40.726984]},"logistic_id":"1","name":"Burke'S Pub"}
+{"location_id":382,"location":{"coordinates":[-73.884337,40.733269]},"logistic_id":"2","name":"Hill Tap Tavern"}
+{"location_id":383,"location":{"coordinates":[-73.9865289,40.7606981]},"logistic_id":"3","name":"Pongsri Thai Restaurant"}
+{"location_id":384,"location":{"coordinates":[-73.967288,40.757018]},"logistic_id":"4","name":"Primavera Pizza  Pasta"}
+{"location_id":385,"location":{"coordinates":[-73.78309349999999,40.8374725]},"logistic_id":"5","name":"Tony'S Pier Restaurant"}
+{"location_id":386,"location":{"coordinates":[-73.95285799999999,40.77684199999999]},"logistic_id":"6","name":"Elio'S"}
+{"location_id":387,"location":{"coordinates":[-73.832183,40.84710099999999]},"logistic_id":"7","name":"Quality Cafe  Restaurant"}
+{"location_id":388,"location":{"coordinates":[-73.9254891,40.59284479999999]},"logistic_id":"8","name":"Victoria Pizza"}
+{"location_id":389,"location":{"coordinates":[-73.9949622,40.7496446]},"logistic_id":"9","name":"Molly Wee Pub"}
+{"location_id":390,"location":{"coordinates":[-73.96864699999999,40.755183]},"logistic_id":"10","name":"La Mediterranee Restaurant"}
+{"location_id":391,"location":{"coordinates":[-73.995662,40.748717]},"logistic_id":"1","name":"Kasteli Ii"}
+{"location_id":392,"location":{"coordinates":[-73.91535139999999,40.6087346]},"logistic_id":"2","name":"El Caribe"}
+{"location_id":393,"location":{"coordinates":[-74.0019729,40.7260047]},"logistic_id":"3","name":"Omen Japanese Cuisine"}
+{"location_id":394,"location":{"coordinates":[-73.8122829,40.727543]},"logistic_id":"4","name":"Mcdonald'S"}
+{"location_id":395,"location":{"coordinates":[-73.9917897,40.6913932]},"logistic_id":"5","name":"Mcdonald'S"}
+{"location_id":396,"location":{"coordinates":[-73.96607999999999,40.7602774]},"logistic_id":"6","name":"Bar Vetro"}
+{"location_id":397,"location":{"coordinates":[-73.982506,40.762621]},"logistic_id":"7","name":"Rosie O'Grady Restaurant"}
+{"location_id":398,"location":{"coordinates":[-73.807086,40.6988]},"logistic_id":"8","name":"Europa Go-Go Dancing"}
+{"location_id":399,"location":{"coordinates":[-73.9982079,40.7180815]},"logistic_id":"9","name":"Casa Bella"}
+{"location_id":400,"location":{"coordinates":[-74.0095812,40.71463749999999]},"logistic_id":"10","name":"Raccoon Lodge"}
+{"location_id":401,"location":{"coordinates":[-73.9883256,40.76344890000001]},"logistic_id":"1","name":"Chez Napolean"}
+{"location_id":402,"location":{"coordinates":[-73.9550857,40.72063869999999]},"logistic_id":"2","name":"Turkey'S Nest Tavern"}
+{"location_id":403,"location":{"coordinates":[-73.8507489,40.832069]},"logistic_id":"3","name":"Sabrosura Restaurant"}
+{"location_id":404,"location":{"coordinates":[-73.8520417,40.6666793]},"logistic_id":"4","name":"La Villa De Pizza  Restaurant"}
+{"location_id":405,"location":{"coordinates":[-73.8426307,40.6808917]},"logistic_id":"5","name":"Ozone Pizzeria"}
+{"location_id":406,"location":{"coordinates":[-73.913591,40.756706]},"logistic_id":"6","name":"Ponticello Restaurant"}
+{"location_id":407,"location":{"coordinates":[-73.96643449999999,40.7641697]},"logistic_id":"7","name":"Agra Restaurant"}
+{"location_id":408,"location":{"coordinates":[-73.9813814,40.76306150000001]},"logistic_id":"8","name":"Lindy'S"}
+{"location_id":409,"location":{"coordinates":[-73.947847,40.775478]},"logistic_id":"9","name":"Arturo'S"}
+{"location_id":410,"location":{"coordinates":[-73.9500845,40.8064061]},"logistic_id":"10","name":"Paris Blues"}
+{"location_id":411,"location":{"coordinates":[-73.9977952,40.7353195]},"logistic_id":"1","name":"Gene'S Resturant"}
+{"location_id":412,"location":{"coordinates":[-73.9367236,40.5842786]},"logistic_id":"2","name":"Maria Ristorante"}
+{"location_id":413,"location":{"coordinates":[-73.993406,40.730003]},"logistic_id":"3","name":"Cozy Soup  Burger"}
+{"location_id":414,"location":{"coordinates":[-73.74878939999999,40.7271425]},"logistic_id":"4","name":"Neron'S Pizza"}
+{"location_id":415,"location":{"coordinates":[-73.9977997,40.6118897]},"logistic_id":"5","name":"Villa Fiorita"}
+{"location_id":416,"location":{"coordinates":[-74.0065917,40.609992]},"logistic_id":"6","name":"Vegas Diner"}
+{"location_id":417,"location":{"coordinates":[-73.840374,40.683319]},"logistic_id":"7","name":"Moms Luncheonette"}
+{"location_id":418,"location":{"coordinates":[-73.9801846,40.7801316]},"logistic_id":"8","name":"Candle Bar"}
+{"location_id":419,"location":{"coordinates":[-73.9558969,40.778154]},"logistic_id":"9","name":"Tevere 84"}
+{"location_id":420,"location":{"coordinates":[-73.990556,40.749722]},"logistic_id":"10","name":"Haagen-Dazs"}
+{"location_id":421,"location":{"coordinates":[-73.782866,40.757529]},"logistic_id":"1","name":"Fontana Famous Pizza  Gyro"}
+{"location_id":422,"location":{"coordinates":[-92.73084399999999,41.7461462]},"logistic_id":"2","name":"Charlie'S Mom Chinese Restaurant"}
+{"location_id":423,"location":{"coordinates":[-73.955387,40.772368]},"logistic_id":"3","name":"Lusardi'S Restaurant"}
+{"location_id":424,"location":{"coordinates":[-74.1069208,40.6302784]},"logistic_id":"4","name":"King'S Arms Restaurant"}
+{"location_id":425,"location":{"coordinates":[-73.8397963,40.7191179]},"logistic_id":"5","name":"Portofino"}
+{"location_id":426,"location":{"coordinates":[-74.00064259999999,40.7309096]},"logistic_id":"6","name":"Blue Note Jazz"}
+{"location_id":427,"location":{"coordinates":[-73.9724015,40.7403386]},"logistic_id":"7","name":"The Water Club"}
+{"location_id":428,"location":{"coordinates":[-73.9957111,40.6821943]},"logistic_id":"8","name":"Marco Polo Ristorante"}
+{"location_id":429,"location":{"coordinates":[-74.0023353,40.7333573]},"logistic_id":"9","name":"Manhattan Monster"}
+{"location_id":430,"location":{"coordinates":[-73.97911239999999,40.7834791]},"logistic_id":"10","name":"American Museum Of Natural History Food Court"}
+{"location_id":431,"location":{"coordinates":[-84.1899005,39.7642657]},"logistic_id":"1","name":"War Memorial Ice Skating Rink"}
+{"location_id":432,"location":{"coordinates":[-74.001763,40.7282465]},"logistic_id":"2","name":"Chez Jaqueline"}
+{"location_id":433,"location":{"coordinates":[-73.9946329,40.690043]},"logistic_id":"3","name":"Tripoli Restaurant"}
+{"location_id":434,"location":{"coordinates":[-73.9612178,40.7684788]},"logistic_id":"4","name":"Pj Bernstein Deli  Restaurant"}
+{"location_id":435,"location":{"coordinates":[-73.980002,40.7659216]},"logistic_id":"5","name":"Pj Carney'S"}
+{"location_id":436,"location":{"coordinates":[-74.0001023,40.7276736]},"logistic_id":"6","name":"Tomoe Sushi"}
+{"location_id":437,"location":{"coordinates":[-74.3731727,40.4404759]},"logistic_id":"7","name":"Water'S Edge Club"}
+{"location_id":438,"location":{"coordinates":[-73.9592644,40.8088612]},"logistic_id":"8","name":"Amsterdam Restaurant  Tapas Lounge"}
+{"location_id":439,"location":{"coordinates":[-73.79064389999999,40.8575687]},"logistic_id":"9","name":"Jp'S Waterside Restaurant"}
+{"location_id":440,"location":{"coordinates":[-73.83732549999999,40.57984829999999]},"logistic_id":"10","name":"Rogers Irish Tavern"}
+{"location_id":441,"location":{"coordinates":[-73.8657838,40.8544744]},"logistic_id":"1","name":"John  Joe Pizzeria  Restaurant"}
+{"location_id":442,"location":{"coordinates":[-73.8803351,40.7017284]},"logistic_id":"2","name":"Mcdonald'S"}
+{"location_id":443,"location":{"coordinates":[-73.9811382,40.7788729]},"logistic_id":"3","name":"Utopia Restaurant"}
+{"location_id":444,"location":{"coordinates":[-74.2078085,40.5427718]},"logistic_id":"4","name":"Sunset Pizzeria"}
+{"location_id":445,"location":{"coordinates":[-73.8047246,40.7328495]},"logistic_id":"5","name":"Napoli Pizza"}
+{"location_id":446,"location":{"coordinates":[-73.9774801,40.7461444]},"logistic_id":"6","name":"Jackson Hole"}
+{"location_id":447,"location":{"coordinates":[-74.027017,40.632575]},"logistic_id":"7","name":"Vesuvio Restaurant  Pizza"}
+{"location_id":448,"location":{"coordinates":[-73.7416329,40.6767449]},"logistic_id":"8","name":"Western Bakery"}
+{"location_id":449,"location":{"coordinates":[-73.971606,40.751148]},"logistic_id":"9","name":"Johns Cafe  Resturant"}
+{"location_id":450,"location":{"coordinates":[-74.0014102,40.7318195]},"logistic_id":"10","name":"Karavas Place"}
+{"location_id":451,"location":{"coordinates":[-73.983169,40.7774031]},"logistic_id":"1","name":"Cafe Luxembourg"}
+{"location_id":452,"location":{"coordinates":[-73.9070012,40.7090773]},"logistic_id":"2","name":"Windjammers Bar"}
+{"location_id":453,"location":{"coordinates":[-73.8153553,40.7394901]},"logistic_id":"3","name":"Dunkin' Donuts/Baskin' Robbins"}
+{"location_id":454,"location":{"coordinates":[-73.9689746,40.7979687]},"logistic_id":"4","name":"Broadway Restaurant"}
+{"location_id":455,"location":{"coordinates":[-73.94100100000001,40.798046]},"logistic_id":"5","name":"Cuchifrito"}
+{"location_id":456,"location":{"coordinates":[-73.8454959,40.7207511]},"logistic_id":"6","name":"Narita Japanese Restaurant"}
+{"location_id":457,"location":{"coordinates":[-73.9940325,40.681185]},"logistic_id":"7","name":"Red Rose"}
+{"location_id":458,"location":{"coordinates":[-74.00141959999999,40.7408836]},"logistic_id":"8","name":"Mary Ann'S"}
+{"location_id":459,"location":{"coordinates":[-73.89687649999999,40.8166811]},"logistic_id":"9","name":"Tony'S Pizza"}
+{"location_id":460,"location":{"coordinates":[-73.84938439999999,40.688197]},"logistic_id":"10","name":"Port O' Calls"}
+{"location_id":461,"location":{"coordinates":[-73.97256639999999,40.59727549999999]},"logistic_id":"1","name":"Fiorentino Ristorante"}
+{"location_id":462,"location":{"coordinates":[-73.9932049,40.7321769]},"logistic_id":"2","name":"Il Cantinori Restauraunt"}
+{"location_id":463,"location":{"coordinates":[-73.9896961,40.7516989]},"logistic_id":"3","name":"Andrews Coffee Shop"}
+{"location_id":464,"location":{"coordinates":[-73.8514393,40.693942]},"logistic_id":"4","name":"Mike'S Pub"}
+{"location_id":465,"location":{"coordinates":[-73.90092960000001,40.7137698]},"logistic_id":"5","name":"The Clubhouse"}
+{"location_id":466,"location":{"coordinates":[-73.9879627,40.7478473]},"logistic_id":"6","name":"Kang Suh Korean Restaurant"}
+{"location_id":467,"location":{"coordinates":[-73.8935099,40.7272902]},"logistic_id":"7","name":"Fame Diner"}
+{"location_id":468,"location":{"coordinates":[-73.93825489999999,40.5834295]},"logistic_id":"8","name":"Knights Of Baron Dekalb"}
+{"location_id":469,"location":{"coordinates":[-74.1092654,40.6379272]},"logistic_id":"9","name":"Union Hall"}
+{"location_id":470,"location":{"coordinates":[-73.965305,40.6064189]},"logistic_id":"10","name":"Kosher Hut Of Brooklyn"}
+{"location_id":471,"location":{"coordinates":[-73.9992986,40.7283881]},"logistic_id":"1","name":"Terra Blues"}
+{"location_id":472,"location":{"coordinates":[-73.97579000000002,40.786074]},"logistic_id":"2","name":"Caesar'S Palace"}
+{"location_id":473,"location":{"coordinates":[-73.8806546,40.7479695]},"logistic_id":"3","name":"Flamingo"}
+{"location_id":474,"location":{"coordinates":[-74.001094,40.729583]},"logistic_id":"4","name":"Monte'S"}
+{"location_id":475,"location":{"coordinates":[-73.9938232,40.7340887]},"logistic_id":"5","name":"Gotham Bar  Grill"}
+{"location_id":476,"location":{"coordinates":[-73.8676483,40.72214200000001]},"logistic_id":"6","name":"London Lennies"}
+{"location_id":477,"location":{"coordinates":[-83.8842292,30.6928463]},"logistic_id":"7","name":"Dunkin' Donuts"}
+{"location_id":478,"location":{"coordinates":[-73.9901605,40.7526176]},"logistic_id":"8","name":"Delmonico'S Kitchen"}
+{"location_id":479,"location":{"coordinates":[-73.977372,40.783934]},"logistic_id":"9","name":"Mcaleer'S Pub"}
+{"location_id":480,"location":{"coordinates":[-73.9888412,40.7296752]},"logistic_id":"10","name":"Hasaki Restaurant"}
+{"location_id":481,"location":{"coordinates":[-73.9592566,40.7711518]},"logistic_id":"1","name":"Mezzaluna"}
+{"location_id":482,"location":{"coordinates":[-73.980274,40.73489379999999]},"logistic_id":"2","name":"Cooper Town Diner"}
+{"location_id":483,"location":{"coordinates":[-73.9703093,40.7575104]},"logistic_id":"3","name":"Restuarant Nippon"}
+{"location_id":484,"location":{"coordinates":[-73.8675389,40.8977829]},"logistic_id":"4","name":"Aqueduct North"}
+{"location_id":485,"location":{"coordinates":[-74.0082408,40.7148452]},"logistic_id":"5","name":"Imperial Coffee House"}
+{"location_id":486,"location":{"coordinates":[-73.98527039999999,40.7589099]},"logistic_id":"6","name":"Mcdonald'S"}
+{"location_id":487,"location":{"coordinates":[-73.9616659,40.777365]},"logistic_id":"7","name":"E.A.T. Cafe"}
+{"location_id":488,"location":{"coordinates":[-73.8865891,40.7723001]},"logistic_id":"8","name":"Yankee Clipper"}
+{"location_id":489,"location":{"coordinates":[-73.8982405,40.8616283]},"logistic_id":"9","name":"Cuchifritos"}
+{"location_id":490,"location":{"coordinates":[-74.00290509999999,40.6312541]},"logistic_id":"10","name":"Rex Manor"}
+{"location_id":491,"location":{"coordinates":[-73.97775159999999,40.7510553]},"logistic_id":"1","name":"Club 101"}
+{"location_id":492,"location":{"coordinates":[-73.901496,40.885102]},"logistic_id":"2","name":"Riverdale Diner"}
+{"location_id":493,"location":{"coordinates":[-73.87812749999999,40.7126376]},"logistic_id":"3","name":"Carlos Pizza"}
+{"location_id":494,"location":{"coordinates":[-73.9991763,40.728369]},"logistic_id":"4","name":"The Bitter End"}
+{"location_id":495,"location":{"coordinates":[-73.98819809999999,40.7641429]},"logistic_id":"5","name":"Arriba Arriba"}
+{"location_id":496,"location":{"coordinates":[-73.9726244,40.6779037]},"logistic_id":"6","name":"Geido Restaurant"}
+{"location_id":497,"location":{"coordinates":[-73.974367,40.788002]},"logistic_id":"7","name":"Barney Greengrass"}
+{"location_id":498,"location":{"coordinates":[-73.97919759999999,40.76604930000001]},"logistic_id":"8","name":"Petrossian Restauraunt"}
+{"location_id":499,"location":{"coordinates":[-73.80112059999999,40.7128278]},"logistic_id":"9","name":"Annam Braham Restaurant"}
+{"location_id":500,"location":{"coordinates":[-73.9837907,40.7626833]},"logistic_id":"10","name":"Supernova-Novotel Hotel"}
