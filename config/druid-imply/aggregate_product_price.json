@@ -1,0 +1,41 @@
+{
+  "type": "kafka",
+  "spec" : {
+    "dataSchema": {
+      "dataSource": "Order-price",
+      "timestampSpec": {
+        "column": "time",
+        "format": "auto"
+      },
+      "dimensionsSpec": {
+        "dimensions": [
+          "order_id",
+	  "total_amount"
+        ]
+      },
+      "metricsSpec": [],
+      "granularitySpec": {
+        "type": "uniform",
+        "segmentGranularity": "DAY",
+        "queryGranularity": "NONE",
+        "rollup": false
+      }
+    },
+    "tuningConfig": {
+      "type": "kafka",
+      "reportParseExceptions": false
+    },
+    "ioConfig": {
+      "topic": "order_price",
+      "inputFormat": {
+        "type": "json"
+      },
+      "replicas": 1,
+      "taskDuration": "PT10M",
+      "completionTimeout": "PT20M",
+      "consumerProperties": {
+        "bootstrap.servers": "10.0.0.6:9092"
+      }
+    }
+  }
+}

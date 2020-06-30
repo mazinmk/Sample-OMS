@@ -1,0 +1,48 @@
+{
+  "type": "kafka",
+  "spec" : {
+    "dataSchema": {
+      "dataSource": "Valid-Orders",
+      "timestampSpec": {
+        "column": "time",
+        "format": "auto"
+      },
+      "dimensionsSpec": {
+        "dimensions": [
+          "product_id",
+          "order_id",
+          "order_qty",
+          "from_location",
+          "to_location",
+          "unit_of_measures",
+          "uom_type",
+	  "product_price",
+	  "ip_address"
+        ]
+      },
+      "metricsSpec": [],
+      "granularitySpec": {
+        "type": "uniform",
+        "segmentGranularity": "DAY",
+        "queryGranularity": "NONE",
+        "rollup": false
+      }
+    },
+    "tuningConfig": {
+      "type": "kafka",
+      "reportParseExceptions": false
+    },
+    "ioConfig": {
+      "topic": "valid_orders",
+      "inputFormat": {
+        "type": "json"
+      },
+      "replicas": 1,
+      "taskDuration": "PT10M",
+      "completionTimeout": "PT20M",
+      "consumerProperties": {
+        "bootstrap.servers": "10.0.0.6:9092"
+      }
+    }
+  }
+}
