@@ -1,3 +1,15 @@
+## Check order status
+### Usage
+```
+$ python3 check_order_status.py
+{'_id': ObjectId('5efa992c2079b7d5c5f75f80'), 'order_id': 11104, 'status': 'routed'}
+{'_id': ObjectId('5efa992c2079b7d5c5f75f81'), 'order_id': 11105, 'status': 'routed'}
+{'_id': ObjectId('5efa992c2079b7d5c5f75f82'), 'order_id': 11106, 'status': 'routed'}
+{'_id': ObjectId('5efa9c2ccbe5893a970aa27f'), 'order_id': 11107, 'status': 'generated'}
+
+$ python3 check_order_status.py -i 11108
+order_id: 11108 status is routed
+```
 ## Random IP generator
 ###  Usage
 ```
