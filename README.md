@@ -52,5 +52,13 @@ This metadata is used in **router** data flow where based on the route_id the or
 ```
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
+## Starting the data flows and aggregators
+```
+$ python3 validate_order.py &
+$ python3 enrich_order_location.py &
+$ python3 route_order.py &
 
-
+# In two separate console start the two spark jobs as it is been set to print on screen to see the computation value
+$ python3 aggregate_price.py
+$ python3 process_order.py
+```
