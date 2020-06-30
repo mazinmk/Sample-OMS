@@ -54,11 +54,30 @@ This metadata is used in **router** data flow where based on the route_id the or
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
 ## STEP 3: Enable Druid Kafka Ingestion
-**Kafka Supervisor specs are found under configs/druid-imply folder**
-We will use Druid's Kafka indexing service to ingest messages from our all the topic related to all workflows and aggregators to create visibility across all the transformation phase in the pipeline. To start the service, we will need to submit all upervisor spec to the Druid overlord by running the following from the Imply home directory.
+We will use Druid's Kafka indexing service to ingest messages from our all the topic related to all workflows and aggregators to create visibility across all the transformation phase in the pipeline. To start the service, we will need to submit all upervisor spec to the Druid overlord by running the following from the Imply home directory. Kafka Supervisor specs are found under **configs/druid-imply** folder
+
+### Copy the supervisor files to quickstart foler
 ```
+$ cp *json /home/druid/imply/quickstart
 $ cd /home/druid/imply
-$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/wikipedia-kafka-supervisor.json http://localhost:8090/druid/indexer/v1/supervisor
+```
+### Submit a supervisor spec to the Druid overlord
+```
+$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/raw-order.json http://localhost:8090/druid/indexer/v1/supervisor
+{"id":"Raw-order"} # You get this output if supervisor was successfully created
+
+$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/valid-order.json http://localhost:8090/druid/indexer/v1/supervisor
+{"id":"Raw-order"} # You get this output if supervisor was successfully created
+
+$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/enrich-order.json http://localhost:8090/druid/indexer/v1/supervisor
+{"id":"Raw-order"} # You get this output if supervisor was successfully created
+
+$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/internal-order.json http://localhost:8090/druid/indexer/v1/supervisor
+{"id":"Raw-order"} # You get this output if supervisor was successfully created
+
+$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/aggregate_product_price.json http://localhost:8090/druid/indexer/v1/supervisor
+{"id":"Raw-order"} # You get this output if supervisor was successfully created
+
 ```
 ## Step 4: Create logs dir
 Create the logs dir where the workflows and aggregators python program files are located. If you want to have separate logs dir you can do it
@@ -98,5 +117,11 @@ $ python generate_order.py
 #### Check the log files
 ```
 $ tail -f logs/genrerate_order.log
-
 ```
+## Step 6: Configure Data cube for visualization and analysis
+1. Navigate to Pivot at http://localhost:9095.
+2. Click on the Plus icon in the top right of the header bar and select "New data cube".
+3. Select the source "druid: raw-order" and ensure "Auto-fill dimensions and measures" is checked.
+4. Click "Next: configure data cube".
+5. Click "Create cube". You should see the confirmation message "Data cube created".
+6. View your new data cube by clicking the Home icon in the top-right and selecting the "Raw Orders" cube you just created.
