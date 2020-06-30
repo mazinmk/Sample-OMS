@@ -1,4 +1,4 @@
-# Sample Retail Order Management System
+# Simple Retail Order Management System
 To design a sample **retail order management system** which has the capability to process a couple of millions orders per day.
 
 ## Technical stack 
