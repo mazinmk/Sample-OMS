@@ -60,8 +60,14 @@ We will use Druid's Kafka indexing service to ingest messages from our all the t
 $ cd /home/druid/imply
 $ curl -XPOST -H'Content-Type: application/json' -d @quickstart/wikipedia-kafka-supervisor.json http://localhost:8090/druid/indexer/v1/supervisor
 ```
+## Step 4: Create logs dir
+Create the logs dir where the workflows and aggregators python program files are located. If you want to have separate logs dir you can do it
+by changing the LOG_FILE_NAME variable.
+```
+$ mkdir logs
+```
 
-## Starting the work flows  and aggregators
+## STEP 5: Starting the work flows  and aggregators
 **Workflows and aggregators program files are found in workflow and aggregators directory**
 
 ### Start workflows pipeline
@@ -70,15 +76,27 @@ $ python3 validate_order.py &
 $ python3 enrich_order_location.py &
 $ python3 route_order.py &
 ```
+#### Check the log files
+```
+$ tail -f logs/validate_order.logs
+$ tail -f logs/enrich_order_location.log
+$ tail -f logs/route_order.log
+
+```
 ### Start the aggregators
 In **two separate consoles** start the two spark jobs as it is been set to print on screen to see the computation value
 ```
-$ python3 aggregate_price.py
-$ python3 process_order.py
+$ python3 aggregate_product_price.py
+$ python3 aggregate_to_location.py
 ```
+
 ### Start Order generation
 Once all the workflows and aggregators are started, execute following program to generate random orders
 ```
 $ python generate_order.py
 ```
+#### Check the log files
+```
+$ tail -f logs/genrerate_order.log
 
+```
