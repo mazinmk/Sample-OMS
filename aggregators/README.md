@@ -29,6 +29,6 @@ We run this aggregrator as streaming process thus we use the startingOffsets as 
 The aggregration used here is to compute sum of product price grouped by order_id.
 
 ## Aggregate to_location by Product ID
-The aggregration used here is to compute count of to_location grouped by product_id.
+The aggregration used here is to compute count of produts grouped to_location.
 
 
