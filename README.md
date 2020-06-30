@@ -11,9 +11,10 @@ To design a sample **retail order management system** which has the capability t
 * Java: 11.0.7
 * Python:3.0
 
-**NOTE** For setup please refer to README.md file under setup folder
+## STEP 1: Set up the enviroment 
+Refer to README.md file under **setup** folder
 
-## Populate MongoDB with metadata
+## STPE 2: Populate MongoDB with metadata
 ### fraud_id Metadata
 This metadata is used in **validate_orders** data flow where each ipaddress in raw orders is checked against the fraud_ip collection if it is found or not. If found order is not processed further.
 
@@ -52,7 +53,7 @@ This metadata is used in **router** data flow where based on the route_id the or
 ```
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
-## Enable Druid Kafka Ingestion
+## STEP 3: Enable Druid Kafka Ingestion
 **Kafka Supervisor specs are found under configs/druid-imply folder**
 We will use Druid's Kafka indexing service to ingest messages from our all the topic related to all workflows and aggregators to create visibility across all the transformation phase in the pipeline. To start the service, we will need to submit all upervisor spec to the Druid overlord by running the following from the Imply home directory.
 ```
