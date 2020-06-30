@@ -20,9 +20,14 @@ Refer to README.md file under **setup** folder
 3. Create a following structure under working directory
 
 ```
+mazin@playground:~/workdir$ ls
 
+aggregate_product_price.py  enrich_order_location.py       logger                      aggregate_to_location.py    
+external_order_process.py   logs                           validate_order.py           generate_order.py              
+check_location_details.py   check_order_status.py          mykafka                     check_product_details.py                             
+mymongo                     random_product_generator.py    route_order.py
 ```
-## STPE 2: Populate MongoDB with metadata
+## STPE 3: Populate MongoDB with metadata
 ### fraud_id Metadata
 This metadata is used in **validate_orders** data flow where each ipaddress in raw orders is checked against the fraud_ip collection if it is found or not. If found order is not processed further.
 
@@ -61,7 +66,7 @@ This metadata is used in **router** data flow where based on the route_id the or
 ```
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
-## STEP 3: Enable Druid Kafka Ingestion
+## STEP 4: Enable Druid Kafka Ingestion
 We will use Druid's Kafka indexing service to ingest messages from our all the topic related to all workflows and aggregators to create visibility across all the transformation phase in the pipeline. To start the service, we will need to submit all upervisor spec to the Druid overlord by running the following from the Imply home directory. Kafka Supervisor specs are found under **configs/druid-imply** folder
 
 ### Copy the supervisor files to quickstart foler
@@ -87,14 +92,14 @@ $ curl -XPOST -H'Content-Type: application/json' -d @quickstart/aggregate_produc
 {"id":"Raw-order"} # You get this output if supervisor was successfully created
 
 ```
-## Step 4: Create logs dir
+## Step 5: Create logs dir
 Create the logs dir where the workflows and aggregators python program files are located. If you want to have separate logs dir you can do it
 by changing the LOG_FILE_NAME variable.
 ```
 $ mkdir logs
 ```
 
-## STEP 5: Starting the work flows  and aggregators
+## STEP 6: Starting the work flows  and aggregators
 **Workflows and aggregators program files are found in workflow and aggregators directory**
 
 ### Start workflows pipeline
@@ -126,7 +131,7 @@ $ python generate_order.py
 ```
 $ tail -f logs/genrerate_order.log
 ```
-## Step 6: Configure Data cube for visualization and analysis
+## Step 7: Configure Data cube for visualization and analysis
 1. Navigate to Pivot at http://localhost:9095.
 2. Click on the Plus icon in the top right of the header bar and select "New data cube".
 3. Select the source "druid: raw-order" and ensure "Auto-fill dimensions and measures" is checked.
@@ -134,10 +139,18 @@ $ tail -f logs/genrerate_order.log
 5. Click "Create cube". You should see the confirmation message "Data cube created".
 6. View your new data cube by clicking the Home icon in the top-right and selecting the "Raw Orders" cube you just created.
 
-## Step 7: Check the status of order processed 
+## Step 8: Check the status of order processed 
 **check_order_status.py** program is found in **helper-kits** directory. With this you can check the status of order at different stages of processing in the pipeline.
 Default behaviour if not given any order_id, this will fetch details about all the orders in the order_status collection
 
 ```
+$ python3 check_order_status.py
+{'_id': ObjectId('5efa992c2079b7d5c5f75f80'), 'order_id': 11104, 'status': 'routed'}
+{'_id': ObjectId('5efa992c2079b7d5c5f75f81'), 'order_id': 11105, 'status': 'routed'}
+{'_id': ObjectId('5efa992c2079b7d5c5f75f82'), 'order_id': 11106, 'status': 'routed'}
+{'_id': ObjectId('5efa9c2ccbe5893a970aa27f'), 'order_id': 11107, 'status': 'generated'}
+
+$ python3 check_order_status.py -i 11108
+order_id: 11108 status is routed
 
 ```
