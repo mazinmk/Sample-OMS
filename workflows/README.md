@@ -29,3 +29,55 @@ The transformed data is published onto kafka producer using **json serialiser** 
 
 4. **Update the order status**
 Once the message is published we need to update the order status as **generated**. The objective of maintaing the status is to enable status report tracking for each orders.
+You can use **check_order_status.py** to check the status of all the orders.
+```
+$  python3 check_order_status.py
+{'_id': ObjectId('5efac09e983fe22729abaabd'), 'order_id': 11100, 'status': 'generated'}
+{'_id': ObjectId('5efac09e983fe22729abaabe'), 'order_id': 11101, 'status': 'generated'}
+```
+
+# Validate Orders workflow
+This program has following functions:
+
+1. **Consume message from raw_order topic**
+    * Kafka consumer is configured to consume from "latest" offset as this program will be running in
+   stream mode.
+    * Topics are created with single partition, but consumer group is configured to enable
+   parallel process where more consumers can be added if needed to scale.
+    * Auto Commit is set to true which means offset commit will happen every 5 sec.
+
+2. **Validate the order**
+Validation is set only to check against the fraudulent ipaddress which is populated onto fraud_ip metastore.For each record we extract ip address and valid against fraud_ip collection. If the IP address is not present in the ip_address collection the message is published onto **valid_orders** topic.
+
+3. **Publish the message tranformed data onto kafka**
+The validated order is published onto kafka producer using **json serialiser** in async mode, thus the module kafka_connect() does not have a feedback loop configured in kafka producer.
+
+4. **Update the order status**
+Once the message is published we need to update the order status as **validated**. The objective of maintaing the status is to enable status report tracking for each orders.
+```
+$  python3 check_order_status.py
+{'_id': ObjectId('5efac09e983fe22729abaabd'), 'order_id': 11100, 'status': 'validated'}
+{'_id': ObjectId('5efac09e983fe22729abaabe'), 'order_id': 11101, 'status': 'valdiated'}
+```
+# Enrich Data workflow
+1. **Consume message from valid_order topic**
+    * Kafka consumer is configured to consume from "latest" offset as this program will be running in
+   stream mode.
+    * Topics are created with single partition, but consumer group is configured to enable
+   parallel process where more consumers can be added if needed to scale.
+    * Auto Commit is set to true which means offset commit will happen every 5 sec.
+
+2. **Enrich the order**
+Enriches the data with respective location names for to_location and from_location filed by looking up location details metadata stored in the MongoDB. Enriched data is then published onto **enriched_order_details** topic.
+
+3. **Publish the message tranformed data onto kafka**
+The enhanced order is published onto kafka producer using **json serialiser** in async mode, thus the module kafka_connect() does not have a feedback loop configured in kafka producer.
+
+4. **Update the order status**
+Once the message is published we need to update the order status as **enriched**. The objective of maintaing the status is to enable status report tracking for each orders.
+```
+$  python3 check_order_status.py
+{'_id': ObjectId('5efac09e983fe22729abaabd'), 'order_id': 11100, 'status': 'enriched'}
+{'_id': ObjectId('5efac09e983fe22729abaabe'), 'order_id': 11101, 'status': 'enriched'}
+```
+
