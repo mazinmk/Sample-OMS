@@ -107,6 +107,7 @@ $ mkdir logs
 $ python3 validate_order.py &
 $ python3 enrich_order_location.py &
 $ python3 route_order.py &
+$ python3 external_order_process.py &
 ```
 #### Check the log files
 ```
