@@ -53,6 +53,7 @@ This metadata is used in **router** data flow where based on the route_id the or
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
 ## Starting the work flows and aggregators
+**Workflows and aggregators program files are found in workflow and aggregators directory**
 ```
 $ python3 validate_order.py &
 $ python3 enrich_order_location.py &
