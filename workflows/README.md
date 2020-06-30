@@ -106,5 +106,28 @@ $  python3 check_order_status.py
 {'_id': ObjectId('5efac09e983fe22729abaabd'), 'order_id': 11100, 'status': 'routed'}
 {'_id': ObjectId('5efac09e983fe22729abaabe'), 'order_id': 11101, 'status': 'routed'}
 ```
+# External order processing workflow
+All the external routed orders needs to converted into json so that it can be routed to external using client API end point. Since the API end point is not present we save the json file onto a local folder.
+1. **Create a external_order dir
+This is the directory where all the json files per order will be saved. 
+
+2. ***Consume message from external_routed_order topic:***
+    * Kafka consumer is configured to consume from "latest" offset as this program will be running in stream mode.
+    * Topics are created with single partition, but consumer group **external_group** is configured to enable 
+    parallel process where more consumers can be added if needed to scale.
+3. **Save the orders injson file**
+One json file is created per order / per product and stored in external_orders directory
+4. ***Update the order status:***
+Once the json files are created we need to update the order status as **external_routed**. The objective of maintaing the status is to enable status report tracking for each orders.
+```
+mazin@playground:~/stage2$ python3 check_order_status.py
+{'_id': ObjectId('5efb30e8124bf24d40de5767'), 'order_id': 11104, 'status': 'routed'}
+{'_id': ObjectId('5efb30e8124bf24d40de5768'), 'order_id': 11105, 'status': 'routed'}
+{'_id': ObjectId('5efb30e8124bf24d40de5769'), 'order_id': 11106, 'status': 'enriched'}
+{'_id': ObjectId('5efb30e8124bf24d40de576a'), 'order_id': 11107, 'status': 'external_routed'}
+
+$ ls external_orders
+11100.json  11101.json  11102.json  11103.json  11104.json  11105.json  11106.json  11107.json  11108.json  11109.json
+```
 
 
