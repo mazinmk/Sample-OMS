@@ -52,6 +52,14 @@ This metadata is used in **router** data flow where based on the route_id the or
 ```
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
+## Enable Druid Kafka Ingestion
+**Kafka Supervisor specs are found under configs/druid-imply folder**
+We will use Druid's Kafka indexing service to ingest messages from our all the topic related to all workflows and aggregators to create visibility across all the transformation phase in the pipeline. To start the service, we will need to submit all upervisor spec to the Druid overlord by running the following from the Imply home directory.
+```
+$ cd /home/druid/imply
+$ curl -XPOST -H'Content-Type: application/json' -d @quickstart/wikipedia-kafka-supervisor.json http://localhost:8090/druid/indexer/v1/supervisor
+```
+
 ## Starting the work flows  and aggregators
 **Workflows and aggregators program files are found in workflow and aggregators directory**
 
@@ -72,3 +80,4 @@ Once all the workflows and aggregators are started, execute following program to
 ```
 $ python generate_order.py
 ```
+
