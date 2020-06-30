@@ -14,6 +14,14 @@ To design a sample **retail order management system** which has the capability t
 ## STEP 1: Set up the enviroment 
 Refer to README.md file under **setup** folder
 
+## STEP 2: Setup local working directory
+1. Create a working directory
+2. Copy the files from **workflows** / **aggregators** / **helper-kits** under working directory
+3. Create a following structure under working directory
+
+```
+
+```
 ## STPE 2: Populate MongoDB with metadata
 ### fraud_id Metadata
 This metadata is used in **validate_orders** data flow where each ipaddress in raw orders is checked against the fraud_ip collection if it is found or not. If found order is not processed further.
@@ -125,3 +133,11 @@ $ tail -f logs/genrerate_order.log
 4. Click "Next: configure data cube".
 5. Click "Create cube". You should see the confirmation message "Data cube created".
 6. View your new data cube by clicking the Home icon in the top-right and selecting the "Raw Orders" cube you just created.
+
+## Step 7: Check the status of order processed 
+**check_order_status.py** program is found in **helper-kits** directory. With this you can check the status of order at different stages of processing in the pipeline.
+Default behaviour if not given any order_id, this will fetch details about all the orders in the order_status collection
+
+```
+
+```
