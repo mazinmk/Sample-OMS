@@ -1,6 +1,6 @@
 # Generate Orders workflow
 This Program has following functions:
-1. **Generate random orders: ** 
+1. **Generate random orders:** 
 Orders are randomly generated using pythn random() and shuffle() method. Each order comprises of multiple products which is also randomly picked between 1-4 numbers. All the values for properties of the orders are also randomly generated.
 ```
   {'order_id': 11100, 'time': '2020-06-29T02:38:55.166689', 'ip_address': '128.69.191.226',
@@ -10,7 +10,7 @@ Orders are randomly generated using pythn random() and shuffle() method. Each or
     ]
   }
 ```
-2. **Transformation of data from nested to flatten structure: **
+2. **Transformation of data from nested to flatten structure:**
 In order to process that data it is needed to flatten the datastructure from nested structure to flat structure so that this can be easily converted into dataframes for aggregation and otehr computation needed. In the above example, each order has 2 products thus post transformation one record will be tranformed into
 flattened structure resulting in 2 records
 ```
