@@ -52,19 +52,23 @@ This metadata is used in **router** data flow where based on the route_id the or
 ```
 $ mongoimport --db=locations --collection=product_details --file=product_details.json
 ```
-## Starting the work flows and aggregators
+## Starting the work flows  and aggregators
 **Workflows and aggregators program files are found in workflow and aggregators directory**
+
+### Start workflows pipeline
 ```
 $ python3 validate_order.py &
 $ python3 enrich_order_location.py &
 $ python3 route_order.py &
-
-# In two separate console start the two spark jobs as it is been set to print on screen to see the computation value
-
+```
+### Start the aggregators
+In two separate console start the two spark jobs as it is been set to print on screen to see the computation value
+```
 $ python3 aggregate_price.py
 $ python3 process_order.py
-
-# Once all the workflows and aggregators are started, execute following program to generate random orders
-
+```
+### Start Order generation
+Once all the workflows and aggregators are started, execute following program to generate random orders
+```
 $ python generate_order.py
 ```
