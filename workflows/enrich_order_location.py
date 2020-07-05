@@ -9,9 +9,9 @@ import time
 import sys
 
 
-valid_orders = "valid_orders"
-enriched_orders = "enriched_order_details"
-logs_file = "logs/enrich_order_location.log"
+VALID_ORDERS = "valid_orders"
+ENRICHED_ORDERS = "enriched_order_details"
+LOGS_FILE = "logs/enrich_order_location.log"
 
 def get_name_for_location(location_object,location_id):
     """
@@ -41,7 +41,7 @@ def enrich_message():
     #Create kafka producer and consumer object
     kafka_connect_obj = MyKafkaConnect()
     kafka_producer = kafka_connect_obj.get_kafka_producer()
-    kafka_consumer = kafka_connect_obj.get_kafka_consumer(valid_orders,
+    kafka_consumer = kafka_connect_obj.get_kafka_consumer(VALID_ORDERS,
                                                           'enhanced_group',
                                                           'latest')
     try:
@@ -54,7 +54,7 @@ def enrich_message():
                 order["from_location_name"] = get_name_for_location(location_collection,order["from_location"])
 
                 #Publish the data onto kafka
-                kafka_producer.send(enriched_orders, order)
+                kafka_producer.send(ENRICHED_ORDERS, order)
                 logger.info("Enriched Order published successfully")
 
                 #Update the order status
@@ -83,7 +83,7 @@ def main():
     enrich_message()
 
 if __name__ == "__main__":
-    logger = configure_app_logger(__name__,logs_file)
+    logger = configure_app_logger(__name__,LOGS_FILE)
     logger.info("Log initiliazed successfully.")
     main()
 

@@ -8,10 +8,10 @@ import time
 import sys
 
 
-enriched_orders = "enriched_order_details"
-internal_route = "internal_routed_order"
-external_route = "external_routed_order"
-logs_file = "logs/route_order.log"
+ENRICHED_ORDERS = "enriched_order_details"
+INTERNAL_ROUTE = "internal_routed_order"
+EXTERNAL_ROUTE = "external_routed_order"
+LOGS_FILE = "logs/route_order.log"
 
 def get_route(product_object,product_id):
     """
@@ -44,7 +44,7 @@ def route_message():
     #Create kafka producer  and consumer object
     kafka_connect_obj = MyKafkaConnect()
     kafka_producer = kafka_connect_obj.get_kafka_producer()
-    kafka_consumer = kafka_connect_obj.get_kafka_consumer(enriched_orders,
+    kafka_consumer = kafka_connect_obj.get_kafka_consumer(ENRICHED_ORDERS,
                                                           'route_group',
                                                           'latest')
     try:
@@ -55,10 +55,10 @@ def route_message():
                 status_dict["order_id"] = order["order_id"]
                 route_id = get_route(products_collection,order["product_id"])
                 if route_id == 1:
-                    kafka_producer.send(internal_route, order)
+                    kafka_producer.send(INTERNAL_ROUTE, order)
                     logger.info("Order published to Internal Route successfully")
                 else:
-                    kafka_producer.send(external_route, order)
+                    kafka_producer.send(EXTERNAL_ROUTE, order)
                 order_status_collection.update_one(status_dict,{"$set":{"status":"routed"}})
                 logger.info("Order status changed from generated to validated.")
     except KeyboardInterrupt:
@@ -82,7 +82,7 @@ def main():
     route_message()
 
 if __name__ == "__main__":
-    logger = configure_app_logger(__name__,logs_file)
+    logger = configure_app_logger(__name__,LOGS_FILE)
     logger.info("Log initiliazed successfully.")
     main()
 

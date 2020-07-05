@@ -8,9 +8,9 @@ import sys
 import time
 
 
-raw_topic = "new_raw_orders"
-valid_orders = "valid_orders"
-logs_file = "logs/validate_order.log"
+RAW_TOPIC = "new_raw_orders"
+VALID_ORDERS = "valid_orders"
+LOGS_FILE = "logs/validate_order.log"
 
 def validate_orders():
     """
@@ -25,7 +25,7 @@ def validate_orders():
     #Create kafka producer and consumer object
     kafka_connect_obj = MyKafkaConnect()
     kafka_producer = kafka_connect_obj.get_kafka_producer()
-    kafka_consumer = kafka_connect_obj.get_kafka_consumer(raw_topic,
+    kafka_consumer = kafka_connect_obj.get_kafka_consumer(RAW_TOPIC,
                                                           'validate_group',
                                                           'latest')
     #Create Mongo Connection Object
@@ -47,7 +47,7 @@ def validate_orders():
                 if (fraud_ip_collection.find(ip_document_to_check).count()):
                     print ("This is fraud skip this record or entry into fraud stream")
                 else:
-                    kafka_producer.send(valid_orders, order)
+                    kafka_producer.send(VALID_ORDERS, order)
                     logger.info("Enriched Raw Message published successfully.")
                     # Update the valid orders status in the order status collection
                     try:
@@ -79,7 +79,7 @@ def main():
 if __name__ == "__main__":
 
     #Initialize logger to log all signals
-    logger = configure_app_logger(__name__,logs_file)
+    logger = configure_app_logger(__name__,LOGS_FILE)
     logger.info("Log initiliazed successfully.")
     main()
 
