@@ -1,4 +1,4 @@
-from mymongo.mongo_connect import my_mongo_db
+from mymongo.mongo_connect import MyMongoDb
 from datetime import datetime
 import argparse
 import sys
@@ -11,7 +11,7 @@ def main(order_id):
     if you have choose -i <order_id> then it will retrieve the status 
     for that particular id
     """
-    order_id_status_collection =  my_mongo_db.db.order_status
+    order_id_status_collection =  MyMongoDb.db.order_status
     if (order_id):
         for x in order_id_status_collection.find({"order_id":order_id}):
             order_status = x["status"]

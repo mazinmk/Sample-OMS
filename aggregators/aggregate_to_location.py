@@ -5,9 +5,7 @@ from datetime import datetime
 
 
 INTERNAL_ORDER = "internal_routed_order"
-AGGR_TO_LOCATION = "aggregated_to_location"
-KAFKA_BOOTSTRAP_SERVERS = '10.0.0.6:9092'
-LOCATION_LOGISTICS = "location_logistics"
+BOOT_SERVER = '10.0.0.6:9092'
 
 
 def get_pyspark_session():
@@ -46,7 +44,7 @@ def spark_it_up():
     raw_data_df = pyspark_session \
             .readStream \
             .format("kafka") \
-            .option("kafka.bootstrap.servers", KAFKA_BOOTSTRAP_SERVERS) \
+            .option("kafka.bootstrap.servers", BOOT_SERVER) \
             .option("subscribe", INTERNAL_ORDER) \
             .option("startingOffsets", "latest") \
             .load()

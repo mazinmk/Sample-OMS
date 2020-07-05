@@ -4,9 +4,9 @@ from pyspark.sql.types import *
 from datetime import datetime
 
 
-KAFKA_RAW_DATA_TOPIC = "enriched_order_details"
-KAFKA_ORDER_PRICE = "order_price"
-KAFKA_BOOTSTRAP_SERVERS = '10.0.0.6:9092'
+ENHANCED_ORDER = "enriched_order_details"
+ORDER_PRICE = "order_price"
+BOOTSTRAP_SERVER = '10.0.0.6:9092'
 
 
 
@@ -46,8 +46,8 @@ def spark_it_up():
     raw_data_df = pyspark_session \
             .readStream \
             .format("kafka") \
-            .option("kafka.bootstrap.servers", KAFKA_BOOTSTRAP_SERVERS) \
-            .option("subscribe", KAFKA_RAW_DATA_TOPIC) \
+            .option("kafka.bootstrap.servers", BOOTSTRAP_SERVER) \
+            .option("subscribe", ENHANCED_ORDER) \
             .option("startingOffsets", "latest") \
             .load()
 
@@ -115,8 +115,8 @@ def spark_it_up():
     final_df_write_stream = transformation_df7 \
             .writeStream \
             .format("kafka") \
-            .option("kafka.bootstrap.servers", KAFKA_BOOTSTRAP_SERVERS) \
-            .option("topic", KAFKA_ORDER_PRICE) \
+            .option("kafka.bootstrap.servers", BOOTSTRAP_SERVER) \
+            .option("topic", ORDER_PRICE) \
             .trigger(processingTime='1 seconds') \
             .outputMode("update") \
             .option("checkpointLocation", "order_price_checkpoint") \

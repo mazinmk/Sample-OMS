@@ -16,8 +16,8 @@ Producer:
 """
 
 
-_bootstrap_servers = "10.0.0.6:9092"
-class my_kafka_connect(object):
+bootstrap_servers = "10.0.0.6:9092"
+class MyKafkaConnect(object):
     def __init__(self):
         pass
 
@@ -36,7 +36,7 @@ class my_kafka_connect(object):
         kafka_consumer_obj = None
         try:
             kafka_consumer_obj = KafkaConsumer(topic_name,
-                                        bootstrap_servers=_bootstrap_servers,
+                                        bootstrap_servers=bootstrap_servers,
                                         auto_offset_reset=offset_reset,
                                         enable_auto_commit=True,
                                         consumer_timeout_ms=1000,
